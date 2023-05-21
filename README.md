@@ -14,4 +14,10 @@ Dentro del codigo podemos encontrar distintos notebooks y y correspondiente codi
   - **modelosnosupervisados.ipynb** incluye la implementación de los diferentes modelos de clustering que se han utilizado en el desarrollo del prooyecto. Su correspondiente versión en python es **modelosnosupervisados.py**.
 
 
+## Carpetas de datos.
 
+En esta carpeta se pueden encontrar tres directorios diferentes:
+
+- **Raw**: contiene los datos en bruto que se han obtenido de diferentes fuentes. Se pueden encontrar los datos descargados del portal estadistico o de Idealista.
+- **Silver**: Contiene ficheros que han sido tratados y mergeados de la carpeta raw. El fichero result_datos_poblacion_economicos_idealista_inversiones_locales.csv contiene el set completo de datos. 
+- **Gold**: Contiene ficheros de datos que han sido enriquecidos o modificados para el tratamiento de datos por los modelos supervisados o son los ficheros definitivos que se han subido a CARTO para su posterior representación en el mapa.
