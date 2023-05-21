@@ -1,0 +1,285 @@
+ANIO;CODDIS;NOMDIS;PrecioAlquilerEurosM2
+2022;2;Arganzuela;16,1
+2021;2;Arganzuela;14,6
+2020;2;Arganzuela;14,4
+2019;2;Arganzuela;15,8
+2018;2;Arganzuela;15,2
+2017;2;Arganzuela;13,9
+2016;2;Arganzuela;12,8
+2015;2;Arganzuela;12,1
+2014;2;Arganzuela;11,3
+2013;2;Arganzuela;10,9
+2012;2;Arganzuela;11,2
+2011;2;Arganzuela;12,2
+2010;2;Arganzuela;12,5
+2009;2;Arganzuela;12,1
+2022;21;Barajas;12,5
+2021;21;Barajas;11,6
+2020;21;Barajas;11,3
+2019;21;Barajas;11,7
+2018;21;Barajas;11,7
+2017;21;Barajas;11,3
+2016;21;Barajas;10,1
+2015;21;Barajas;9,7
+2014;21;Barajas;9,5
+2013;21;Barajas;9,5
+2012;21;Barajas;10,1
+2011;21;Barajas;10,2
+2010;21;Barajas;11,3
+2022;11;Carabanchel;12,7
+2021;11;Carabanchel;11,7
+2020;11;Carabanchel;11,6
+2019;11;Carabanchel;12,0
+2018;11;Carabanchel;11,6
+2017;11;Carabanchel;10,6
+2016;11;Carabanchel;9,6
+2015;11;Carabanchel;8,8
+2014;11;Carabanchel;8,4
+2013;11;Carabanchel;8,6
+2012;11;Carabanchel;9,1
+2011;11;Carabanchel;9,8
+2010;11;Carabanchel;10,0
+2009;11;Carabanchel;10,0
+2022;1;Centro;20,3
+2021;1;Centro;17,6
+2020;1;Centro;16,7
+2019;1;Centro;18,7
+2018;1;Centro;18,3
+2017;1;Centro;17,9
+2016;1;Centro;16,7
+2015;1;Centro;14,6
+2014;1;Centro;13,7
+2013;1;Centro;13,2
+2012;1;Centro;13,8
+2011;1;Centro;15,0
+2010;1;Centro;15,4
+2009;1;Centro;15,9
+2008;1;Centro;18,8
+2022;5;Chamartín;16,8
+2021;5;Chamartín;15,3
+2020;5;Chamartín;15,5
+2019;5;Chamartín;16,3
+2018;5;Chamartín;16,0
+2017;5;Chamartín;15,5
+2016;5;Chamartín;13,8
+2015;5;Chamartín;13,0
+2014;5;Chamartín;12,6
+2013;5;Chamartín;12,1
+2012;5;Chamartín;12,7
+2011;5;Chamartín;13,4
+2010;5;Chamartín;14,0
+2009;5;Chamartín;14,1
+2022;7;Chamberí;19,7
+2021;7;Chamberí;17,1
+2020;7;Chamberí;16,5
+2019;7;Chamberí;18,1
+2018;7;Chamberí;18,0
+2017;7;Chamberí;16,7
+2016;7;Chamberí;15,6
+2015;7;Chamberí;14,1
+2014;7;Chamberí;13,7
+2013;7;Chamberí;13,3
+2012;7;Chamberí;13,4
+2011;7;Chamberí;14,4
+2010;7;Chamberí;14,5
+2009;7;Chamberí;14,9
+2022;15;Ciudad Lineal;14,3
+2021;15;Ciudad Lineal;12,9
+2020;15;Ciudad Lineal;13,0
+2019;15;Ciudad Lineal;13,5
+2018;15;Ciudad Lineal;13,3
+2017;15;Ciudad Lineal;12,6
+2016;15;Ciudad Lineal;11,3
+2015;15;Ciudad Lineal;10,4
+2014;15;Ciudad Lineal;10,0
+2013;15;Ciudad Lineal;10,0
+2012;15;Ciudad Lineal;10,4
+2011;15;Ciudad Lineal;11,1
+2010;15;Ciudad Lineal;11,3
+2009;15;Ciudad Lineal;11,2
+2022;8;Fuencarral - El Pardo;13,1
+2021;8;Fuencarral - El Pardo;12,3
+2020;8;Fuencarral - El Pardo;12,3
+2019;8;Fuencarral - El Pardo;12,6
+2018;8;Fuencarral - El Pardo;12,2
+2017;8;Fuencarral - El Pardo;12,1
+2016;8;Fuencarral - El Pardo;11,2
+2015;8;Fuencarral - El Pardo;10,4
+2014;8;Fuencarral - El Pardo;10,2
+2013;8;Fuencarral - El Pardo;9,8
+2012;8;Fuencarral - El Pardo;10,2
+2011;8;Fuencarral - El Pardo;10,7
+2010;8;Fuencarral - El Pardo;10,6
+2009;8;Fuencarral - El Pardo;9,9
+2022;16;Hortaleza;13,3
+2021;16;Hortaleza;12,6
+2020;16;Hortaleza;12,5
+2019;16;Hortaleza;12,3
+2018;16;Hortaleza;13,1
+2017;16;Hortaleza;12,2
+2016;16;Hortaleza;11,0
+2015;16;Hortaleza;10,6
+2014;16;Hortaleza;10,3
+2013;16;Hortaleza;10,2
+2012;16;Hortaleza;10,7
+2011;16;Hortaleza;11,4
+2010;16;Hortaleza;11,5
+2009;16;Hortaleza;11,0
+2022;10;Latina;13,0
+2021;10;Latina;11,8
+2020;10;Latina;12,0
+2019;10;Latina;12,4
+2018;10;Latina;11,4
+2017;10;Latina;10,3
+2016;10;Latina;9,4
+2015;10;Latina;8,7
+2014;10;Latina;8,5
+2013;10;Latina;8,4
+2012;10;Latina;9,0
+2011;10;Latina;9,5
+2010;10;Latina;9,7
+2009;10;Latina;11,0
+2022;9;Moncloa - Aravaca;15,3
+2021;9;Moncloa - Aravaca;13,9
+2020;9;Moncloa - Aravaca;14,4
+2019;9;Moncloa - Aravaca;14,6
+2018;9;Moncloa - Aravaca;14,6
+2017;9;Moncloa - Aravaca;13,3
+2016;9;Moncloa - Aravaca;12,9
+2015;9;Moncloa - Aravaca;12,0
+2014;9;Moncloa - Aravaca;11,2
+2013;9;Moncloa - Aravaca;10,7
+2012;9;Moncloa - Aravaca;11,3
+2011;9;Moncloa - Aravaca;11,7
+2010;9;Moncloa - Aravaca;12,5
+2009;9;Moncloa - Aravaca;13,3
+2022;14;Moratalaz;12,0
+2021;14;Moratalaz;11,1
+2020;14;Moratalaz;11,1
+2019;14;Moratalaz;11,2
+2018;14;Moratalaz;9,7
+2017;14;Moratalaz;10,0
+2016;14;Moratalaz;9,4
+2015;14;Moratalaz;8,7
+2014;14;Moratalaz;8,2
+2013;14;Moratalaz;8,1
+2012;14;Moratalaz;8,7
+2011;14;Moratalaz;9,2
+2022;13;Puente de Vallecas;12,9
+2021;13;Puente de Vallecas;12,0
+2020;13;Puente de Vallecas;12,1
+2019;13;Puente de Vallecas;12,4
+2018;13;Puente de Vallecas;11,4
+2017;13;Puente de Vallecas;10,4
+2016;13;Puente de Vallecas;9,4
+2015;13;Puente de Vallecas;8,8
+2014;13;Puente de Vallecas;8,3
+2013;13;Puente de Vallecas;8,4
+2012;13;Puente de Vallecas;9,1
+2011;13;Puente de Vallecas;9,7
+2010;13;Puente de Vallecas;10,0
+2022;3;Retiro;17,2
+2021;3;Retiro;15,0
+2020;3;Retiro;15,0
+2019;3;Retiro;16,4
+2018;3;Retiro;16,0
+2017;3;Retiro;14,8
+2016;3;Retiro;13,9
+2015;3;Retiro;13,0
+2014;3;Retiro;12,0
+2013;3;Retiro;11,8
+2012;3;Retiro;12,0
+2011;3;Retiro;12,7
+2010;3;Retiro;13,1
+2022;4;Salamanca;20,0
+2021;4;Salamanca;17,5
+2020;4;Salamanca;17,0
+2019;4;Salamanca;18,9
+2018;4;Salamanca;18,3
+2017;4;Salamanca;17,8
+2016;4;Salamanca;16,0
+2015;4;Salamanca;14,9
+2014;4;Salamanca;14,0
+2013;4;Salamanca;13,6
+2012;4;Salamanca;14,0
+2011;4;Salamanca;14,6
+2010;4;Salamanca;15,0
+2009;4;Salamanca;15,5
+2022;20;San Blas - Canillejas;12,5
+2021;20;San Blas - Canillejas;11,4
+2020;20;San Blas - Canillejas;11,8
+2019;20;San Blas - Canillejas;11,9
+2018;20;San Blas - Canillejas;11,6
+2017;20;San Blas - Canillejas;11,2
+2016;20;San Blas - Canillejas;10,0
+2015;20;San Blas - Canillejas;9,3
+2014;20;San Blas - Canillejas;8,7
+2013;20;San Blas - Canillejas;9,1
+2012;20;San Blas - Canillejas;9,6
+2011;20;San Blas - Canillejas;10,2
+2010;20;San Blas - Canillejas;10,8
+2009;20;San Blas - Canillejas;11,9
+2022;6;Tetuán;16,6
+2021;6;Tetuán;15,1
+2020;6;Tetuán;14,9
+2019;6;Tetuán;16,0
+2018;6;Tetuán;15,4
+2017;6;Tetuán;14,9
+2016;6;Tetuán;13,5
+2015;6;Tetuán;12,2
+2014;6;Tetuán;11,4
+2013;6;Tetuán;11,2
+2012;6;Tetuán;11,8
+2011;6;Tetuán;12,3
+2010;6;Tetuán;13,1
+2009;6;Tetuán;14,1
+2022;12;Usera;12,9
+2021;12;Usera;11,3
+2020;12;Usera;11,4
+2019;12;Usera;11,9
+2018;12;Usera;11,2
+2017;12;Usera;10,2
+2016;12;Usera;9,2
+2015;12;Usera;9,0
+2014;12;Usera;8,4
+2013;12;Usera;8,3
+2012;12;Usera;8,7
+2011;12;Usera;9,3
+2010;12;Usera;11,0
+2022;19;Vicálvaro;11,2
+2021;19;Vicálvaro;10,3
+2020;19;Vicálvaro;10,2
+2019;19;Vicálvaro;10,9
+2018;19;Vicálvaro;10,0
+2017;19;Vicálvaro;9,4
+2016;19;Vicálvaro;8,9
+2015;19;Vicálvaro;8,6
+2014;19;Vicálvaro;7,6
+2013;19;Vicálvaro;7,5
+2012;19;Vicálvaro;8,4
+2011;19;Vicálvaro;8,9
+2022;18;Villa de Vallecas;11,9
+2021;18;Villa de Vallecas;11,2
+2020;18;Villa de Vallecas;11,4
+2019;18;Villa de Vallecas;11,3
+2018;18;Villa de Vallecas;10,9
+2017;18;Villa de Vallecas;10,2
+2016;18;Villa de Vallecas;9,4
+2015;18;Villa de Vallecas;9,2
+2014;18;Villa de Vallecas;8,5
+2013;18;Villa de Vallecas;8,6
+2012;18;Villa de Vallecas;9,2
+2011;18;Villa de Vallecas;9,8
+2010;18;Villa de Vallecas;9,6
+2022;17;Villaverde;12,0
+2021;17;Villaverde;10,9
+2020;17;Villaverde;10,6
+2019;17;Villaverde;10,7
+2018;17;Villaverde;10,3
+2017;17;Villaverde;9,2
+2016;17;Villaverde;8,5
+2015;17;Villaverde;7,9
+2014;17;Villaverde;7,5
+2013;17;Villaverde;7,4
+2012;17;Villaverde;8,4
+2011;17;Villaverde;8,8

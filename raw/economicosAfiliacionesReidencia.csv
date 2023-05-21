@@ -1,0 +1,1290 @@
+Anio;Periodo;DatoAfiliacionesResidencia;CodigoBarrio;CodigoDistrito;NombreBarrio;NombreDistrito
+2017;Anual;0;194;19;El Cañaveral;Vicálvaro
+2018;Anual;131;194;19;El Cañaveral;Vicálvaro
+2019;Anual;385;194;19;El Cañaveral;Vicálvaro
+2020;Anual;838;194;19;El Cañaveral;Vicálvaro
+2021;Anual;874;194;19;El Cañaveral;Vicálvaro
+2022;Anual;2627;194;19;El Cañaveral;Vicálvaro
+2013;Anual;19133;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2014;Anual;17105;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2015;Anual;17267;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2016;Anual;20453;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2017;Anual;21261;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2018;Anual;12291;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2019;Anual;12909;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2020;Anual;13277;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2021;Anual;13652;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2022;Anual;13710;191;19;Casco histórico de Vicálvaro;Vicálvaro
+2013;Anual;1093;81;8;El Pardo;Fuencarral - El Pardo
+2014;Anual;988;81;8;El Pardo;Fuencarral - El Pardo
+2015;Anual;980;81;8;El Pardo;Fuencarral - El Pardo
+2016;Anual;1085;81;8;El Pardo;Fuencarral - El Pardo
+2017;Anual;1117;81;8;El Pardo;Fuencarral - El Pardo
+2018;Anual;1148;81;8;El Pardo;Fuencarral - El Pardo
+2019;Anual;1194;81;8;El Pardo;Fuencarral - El Pardo
+2020;Anual;1253;81;8;El Pardo;Fuencarral - El Pardo
+2021;Anual;1253;81;8;El Pardo;Fuencarral - El Pardo
+2022;Anual;1324;81;8;El Pardo;Fuencarral - El Pardo
+2013;Anual;5933;88;8;El Goloso;Fuencarral - El Pardo
+2014;Anual;4782;88;8;El Goloso;Fuencarral - El Pardo
+2015;Anual;4853;88;8;El Goloso;Fuencarral - El Pardo
+2016;Anual;6663;88;8;El Goloso;Fuencarral - El Pardo
+2017;Anual;7210;88;8;El Goloso;Fuencarral - El Pardo
+2018;Anual;7236;88;8;El Goloso;Fuencarral - El Pardo
+2019;Anual;7602;88;8;El Goloso;Fuencarral - El Pardo
+2020;Anual;7848;88;8;El Goloso;Fuencarral - El Pardo
+2021;Anual;8096;88;8;El Goloso;Fuencarral - El Pardo
+2022;Anual;8272;88;8;El Goloso;Fuencarral - El Pardo
+2013;Anual;22716;86;8;Valverde;Fuencarral - El Pardo
+2014;Anual;20572;86;8;Valverde;Fuencarral - El Pardo
+2015;Anual;20637;86;8;Valverde;Fuencarral - El Pardo
+2016;Anual;23031;86;8;Valverde;Fuencarral - El Pardo
+2017;Anual;25400;86;8;Valverde;Fuencarral - El Pardo
+2018;Anual;25474;86;8;Valverde;Fuencarral - El Pardo
+2019;Anual;26698;86;8;Valverde;Fuencarral - El Pardo
+2020;Anual;27189;86;8;Valverde;Fuencarral - El Pardo
+2021;Anual;27247;86;8;Valverde;Fuencarral - El Pardo
+2022;Anual;27808;86;8;Valverde;Fuencarral - El Pardo
+2013;Anual;10007;87;8;Mirasierra;Fuencarral - El Pardo
+2014;Anual;9398;87;8;Mirasierra;Fuencarral - El Pardo
+2015;Anual;9518;87;8;Mirasierra;Fuencarral - El Pardo
+2016;Anual;10480;87;8;Mirasierra;Fuencarral - El Pardo
+2017;Anual;11857;87;8;Mirasierra;Fuencarral - El Pardo
+2018;Anual;12047;87;8;Mirasierra;Fuencarral - El Pardo
+2019;Anual;12831;87;8;Mirasierra;Fuencarral - El Pardo
+2020;Anual;13236;87;8;Mirasierra;Fuencarral - El Pardo
+2021;Anual;13503;87;8;Mirasierra;Fuencarral - El Pardo
+2022;Anual;14020;87;8;Mirasierra;Fuencarral - El Pardo
+2013;Anual;16356;166;16;Valdefuentes;Hortaleza
+2014;Anual;15644;166;16;Valdefuentes;Hortaleza
+2015;Anual;15659;166;16;Valdefuentes;Hortaleza
+2016;Anual;16965;166;16;Valdefuentes;Hortaleza
+2017;Anual;23094;166;16;Valdefuentes;Hortaleza
+2018;Anual;23216;166;16;Valdefuentes;Hortaleza
+2019;Anual;24625;166;16;Valdefuentes;Hortaleza
+2020;Anual;26294;166;16;Valdefuentes;Hortaleza
+2021;Anual;27675;166;16;Valdefuentes;Hortaleza
+2022;Anual;28856;166;16;Valdefuentes;Hortaleza
+2013;Anual;612;212;21;Aeropuerto;Barajas
+2014;Anual;538;212;21;Aeropuerto;Barajas
+2015;Anual;542;212;21;Aeropuerto;Barajas
+2016;Anual;616;212;21;Aeropuerto;Barajas
+2017;Anual;632;212;21;Aeropuerto;Barajas
+2018;Anual;655;212;21;Aeropuerto;Barajas
+2019;Anual;672;212;21;Aeropuerto;Barajas
+2020;Anual;681;212;21;Aeropuerto;Barajas
+2021;Anual;681;212;21;Aeropuerto;Barajas
+2022;Anual;718;212;21;Aeropuerto;Barajas
+2013;Anual;3084;214;21;Timón;Barajas
+2014;Anual;3722;214;21;Timón;Barajas
+2015;Anual;3792;214;21;Timón;Barajas
+2016;Anual;4544;214;21;Timón;Barajas
+2017;Anual;5137;214;21;Timón;Barajas
+2018;Anual;5205;214;21;Timón;Barajas
+2019;Anual;5547;214;21;Timón;Barajas
+2020;Anual;5864;214;21;Timón;Barajas
+2021;Anual;5898;214;21;Timón;Barajas
+2022;Anual;6253;214;21;Timón;Barajas
+2013;Anual;993;82;8;Fuentelarreina;Fuencarral - El Pardo
+2014;Anual;903;82;8;Fuentelarreina;Fuencarral - El Pardo
+2015;Anual;900;82;8;Fuentelarreina;Fuencarral - El Pardo
+2016;Anual;1043;82;8;Fuentelarreina;Fuencarral - El Pardo
+2017;Anual;1048;82;8;Fuentelarreina;Fuencarral - El Pardo
+2018;Anual;1047;82;8;Fuentelarreina;Fuencarral - El Pardo
+2019;Anual;1076;82;8;Fuentelarreina;Fuencarral - El Pardo
+2020;Anual;1107;82;8;Fuentelarreina;Fuencarral - El Pardo
+2021;Anual;1174;82;8;Fuentelarreina;Fuencarral - El Pardo
+2022;Anual;1212;82;8;Fuentelarreina;Fuencarral - El Pardo
+2013;Anual;12711;85;8;La Paz;Fuencarral - El Pardo
+2014;Anual;11226;85;8;La Paz;Fuencarral - El Pardo
+2015;Anual;11169;85;8;La Paz;Fuencarral - El Pardo
+2016;Anual;12362;85;8;La Paz;Fuencarral - El Pardo
+2017;Anual;12169;85;8;La Paz;Fuencarral - El Pardo
+2018;Anual;12150;85;8;La Paz;Fuencarral - El Pardo
+2019;Anual;12230;85;8;La Paz;Fuencarral - El Pardo
+2020;Anual;12102;85;8;La Paz;Fuencarral - El Pardo
+2021;Anual;11711;85;8;La Paz;Fuencarral - El Pardo
+2022;Anual;11630;85;8;La Paz;Fuencarral - El Pardo
+2013;Anual;16516;83;8;Peñagrande;Fuencarral - El Pardo
+2014;Anual;14733;83;8;Peñagrande;Fuencarral - El Pardo
+2015;Anual;14871;83;8;Peñagrande;Fuencarral - El Pardo
+2016;Anual;16558;83;8;Peñagrande;Fuencarral - El Pardo
+2017;Anual;16766;83;8;Peñagrande;Fuencarral - El Pardo
+2018;Anual;16871;83;8;Peñagrande;Fuencarral - El Pardo
+2019;Anual;17046;83;8;Peñagrande;Fuencarral - El Pardo
+2020;Anual;17112;83;8;Peñagrande;Fuencarral - El Pardo
+2021;Anual;16926;83;8;Peñagrande;Fuencarral - El Pardo
+2022;Anual;17140;83;8;Peñagrande;Fuencarral - El Pardo
+2013;Anual;16899;84;8;Pilar;Fuencarral - El Pardo
+2014;Anual;14933;84;8;Pilar;Fuencarral - El Pardo
+2015;Anual;14757;84;8;Pilar;Fuencarral - El Pardo
+2016;Anual;16494;84;8;Pilar;Fuencarral - El Pardo
+2017;Anual;17274;84;8;Pilar;Fuencarral - El Pardo
+2018;Anual;17403;84;8;Pilar;Fuencarral - El Pardo
+2019;Anual;17920;84;8;Pilar;Fuencarral - El Pardo
+2020;Anual;18156;84;8;Pilar;Fuencarral - El Pardo
+2021;Anual;18010;84;8;Pilar;Fuencarral - El Pardo
+2022;Anual;18241;84;8;Pilar;Fuencarral - El Pardo
+2013;Anual;7877;159;15;Costillares;Ciudad Lineal
+2014;Anual;7018;159;15;Costillares;Ciudad Lineal
+2015;Anual;6998;159;15;Costillares;Ciudad Lineal
+2016;Anual;7774;159;15;Costillares;Ciudad Lineal
+2017;Anual;7922;159;15;Costillares;Ciudad Lineal
+2018;Anual;7988;159;15;Costillares;Ciudad Lineal
+2019;Anual;8134;159;15;Costillares;Ciudad Lineal
+2020;Anual;8295;159;15;Costillares;Ciudad Lineal
+2021;Anual;8263;159;15;Costillares;Ciudad Lineal
+2022;Anual;8372;159;15;Costillares;Ciudad Lineal
+2013;Anual;5970;56;5;Castilla;Chamartín
+2014;Anual;5336;56;5;Castilla;Chamartín
+2015;Anual;5386;56;5;Castilla;Chamartín
+2016;Anual;6067;56;5;Castilla;Chamartín
+2017;Anual;6455;56;5;Castilla;Chamartín
+2018;Anual;6408;56;5;Castilla;Chamartín
+2019;Anual;6737;56;5;Castilla;Chamartín
+2020;Anual;6787;56;5;Castilla;Chamartín
+2021;Anual;6704;56;5;Castilla;Chamartín
+2022;Anual;6943;56;5;Castilla;Chamartín
+2013;Anual;5351;165;16;Apóstol Santiago;Hortaleza
+2014;Anual;4756;165;16;Apóstol Santiago;Hortaleza
+2015;Anual;4807;165;16;Apóstol Santiago;Hortaleza
+2016;Anual;5375;165;16;Apóstol Santiago;Hortaleza
+2017;Anual;5546;165;16;Apóstol Santiago;Hortaleza
+2018;Anual;5646;165;16;Apóstol Santiago;Hortaleza
+2019;Anual;5885;165;16;Apóstol Santiago;Hortaleza
+2020;Anual;5946;165;16;Apóstol Santiago;Hortaleza
+2021;Anual;5923;165;16;Apóstol Santiago;Hortaleza
+2022;Anual;6107;165;16;Apóstol Santiago;Hortaleza
+2013;Anual;19334;164;16;Pinar del Rey;Hortaleza
+2014;Anual;16943;164;16;Pinar del Rey;Hortaleza
+2015;Anual;17039;164;16;Pinar del Rey;Hortaleza
+2016;Anual;18914;164;16;Pinar del Rey;Hortaleza
+2017;Anual;19554;164;16;Pinar del Rey;Hortaleza
+2018;Anual;19802;164;16;Pinar del Rey;Hortaleza
+2019;Anual;20327;164;16;Pinar del Rey;Hortaleza
+2020;Anual;20577;164;16;Pinar del Rey;Hortaleza
+2021;Anual;20165;164;16;Pinar del Rey;Hortaleza
+2022;Anual;20710;164;16;Pinar del Rey;Hortaleza
+2013;Anual;916;96;9;El Plantío;Moncloa - Aravaca
+2014;Anual;786;96;9;El Plantío;Moncloa - Aravaca
+2015;Anual;794;96;9;El Plantío;Moncloa - Aravaca
+2016;Anual;924;96;9;El Plantío;Moncloa - Aravaca
+2017;Anual;1033;96;9;El Plantío;Moncloa - Aravaca
+2018;Anual;1040;96;9;El Plantío;Moncloa - Aravaca
+2019;Anual;1056;96;9;El Plantío;Moncloa - Aravaca
+2020;Anual;1097;96;9;El Plantío;Moncloa - Aravaca
+2021;Anual;1096;96;9;El Plantío;Moncloa - Aravaca
+2022;Anual;1184;96;9;El Plantío;Moncloa - Aravaca
+2013;Anual;5063;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2014;Anual;4508;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2015;Anual;4496;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2016;Anual;5212;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2017;Anual;5555;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2018;Anual;5470;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2019;Anual;5704;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2020;Anual;5834;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2021;Anual;5879;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2022;Anual;6017;93;9;Ciudad Universitaria;Moncloa - Aravaca
+2013;Anual;3016;213;21;Casco Histórico de Barajas;Barajas
+2014;Anual;2548;213;21;Casco Histórico de Barajas;Barajas
+2015;Anual;2547;213;21;Casco Histórico de Barajas;Barajas
+2016;Anual;2897;213;21;Casco Histórico de Barajas;Barajas
+2017;Anual;3029;213;21;Casco Histórico de Barajas;Barajas
+2018;Anual;3045;213;21;Casco Histórico de Barajas;Barajas
+2019;Anual;3151;213;21;Casco Histórico de Barajas;Barajas
+2020;Anual;3291;213;21;Casco Histórico de Barajas;Barajas
+2021;Anual;3207;213;21;Casco Histórico de Barajas;Barajas
+2022;Anual;3243;213;21;Casco Histórico de Barajas;Barajas
+2013;Anual;2222;95;9;Valdemarín;Moncloa - Aravaca
+2014;Anual;2044;95;9;Valdemarín;Moncloa - Aravaca
+2015;Anual;2058;95;9;Valdemarín;Moncloa - Aravaca
+2016;Anual;1725;95;9;Valdemarín;Moncloa - Aravaca
+2017;Anual;2474;95;9;Valdemarín;Moncloa - Aravaca
+2018;Anual;2461;95;9;Valdemarín;Moncloa - Aravaca
+2019;Anual;2548;95;9;Valdemarín;Moncloa - Aravaca
+2020;Anual;2608;95;9;Valdemarín;Moncloa - Aravaca
+2021;Anual;2708;95;9;Valdemarín;Moncloa - Aravaca
+2022;Anual;2737;95;9;Valdemarín;Moncloa - Aravaca
+2013;Anual;7590;64;6;Almenara;Tetuán
+2014;Anual;6759;64;6;Almenara;Tetuán
+2015;Anual;6780;64;6;Almenara;Tetuán
+2016;Anual;7730;64;6;Almenara;Tetuán
+2017;Anual;8421;64;6;Almenara;Tetuán
+2018;Anual;8505;64;6;Almenara;Tetuán
+2019;Anual;8993;64;6;Almenara;Tetuán
+2020;Anual;9091;64;6;Almenara;Tetuán
+2021;Anual;9054;64;6;Almenara;Tetuán
+2022;Anual;9434;64;6;Almenara;Tetuán
+2013;Anual;9942;65;6;Valdeacederas;Tetuán
+2014;Anual;8732;65;6;Valdeacederas;Tetuán
+2015;Anual;8696;65;6;Valdeacederas;Tetuán
+2016;Anual;9976;65;6;Valdeacederas;Tetuán
+2017;Anual;10889;65;6;Valdeacederas;Tetuán
+2018;Anual;10981;65;6;Valdeacederas;Tetuán
+2019;Anual;11474;65;6;Valdeacederas;Tetuán
+2020;Anual;11569;65;6;Valdeacederas;Tetuán
+2021;Anual;11603;65;6;Valdeacederas;Tetuán
+2022;Anual;12060;65;6;Valdeacederas;Tetuán
+2013;Anual;10641;94;9;Valdezarza;Moncloa - Aravaca
+2014;Anual;9438;94;9;Valdezarza;Moncloa - Aravaca
+2015;Anual;9457;94;9;Valdezarza;Moncloa - Aravaca
+2016;Anual;9848;94;9;Valdezarza;Moncloa - Aravaca
+2017;Anual;10916;94;9;Valdezarza;Moncloa - Aravaca
+2018;Anual;10985;94;9;Valdezarza;Moncloa - Aravaca
+2019;Anual;11260;94;9;Valdezarza;Moncloa - Aravaca
+2020;Anual;11534;94;9;Valdezarza;Moncloa - Aravaca
+2021;Anual;11402;94;9;Valdezarza;Moncloa - Aravaca
+2022;Anual;11832;94;9;Valdezarza;Moncloa - Aravaca
+2013;Anual;2894;215;21;Corralejos;Barajas
+2014;Anual;1962;215;21;Corralejos;Barajas
+2015;Anual;1962;215;21;Corralejos;Barajas
+2016;Anual;2950;215;21;Corralejos;Barajas
+2017;Anual;3106;215;21;Corralejos;Barajas
+2018;Anual;3143;215;21;Corralejos;Barajas
+2019;Anual;3299;215;21;Corralejos;Barajas
+2020;Anual;3345;215;21;Corralejos;Barajas
+2021;Anual;3338;215;21;Corralejos;Barajas
+2022;Anual;3422;215;21;Corralejos;Barajas
+2013;Anual;15074;163;16;Canillas;Hortaleza
+2014;Anual;13438;163;16;Canillas;Hortaleza
+2015;Anual;13426;163;16;Canillas;Hortaleza
+2016;Anual;14883;163;16;Canillas;Hortaleza
+2017;Anual;15203;163;16;Canillas;Hortaleza
+2018;Anual;15242;163;16;Canillas;Hortaleza
+2019;Anual;15516;163;16;Canillas;Hortaleza
+2020;Anual;15531;163;16;Canillas;Hortaleza
+2021;Anual;15248;163;16;Canillas;Hortaleza
+2022;Anual;15467;163;16;Canillas;Hortaleza
+2013;Anual;8381;55;5;Nueva España;Chamartín
+2014;Anual;7426;55;5;Nueva España;Chamartín
+2015;Anual;7436;55;5;Nueva España;Chamartín
+2016;Anual;8544;55;5;Nueva España;Chamartín
+2017;Anual;9172;55;5;Nueva España;Chamartín
+2018;Anual;9186;55;5;Nueva España;Chamartín
+2019;Anual;9584;55;5;Nueva España;Chamartín
+2020;Anual;9800;55;5;Nueva España;Chamartín
+2021;Anual;9921;55;5;Nueva España;Chamartín
+2022;Anual;10039;55;5;Nueva España;Chamartín
+2013;Anual;551;158;15;Atalaya;Ciudad Lineal
+2014;Anual;475;158;15;Atalaya;Ciudad Lineal
+2015;Anual;470;158;15;Atalaya;Ciudad Lineal
+2016;Anual;565;158;15;Atalaya;Ciudad Lineal
+2017;Anual;552;158;15;Atalaya;Ciudad Lineal
+2018;Anual;544;158;15;Atalaya;Ciudad Lineal
+2019;Anual;551;158;15;Atalaya;Ciudad Lineal
+2020;Anual;556;158;15;Atalaya;Ciudad Lineal
+2021;Anual;557;158;15;Atalaya;Ciudad Lineal
+2022;Anual;594;158;15;Atalaya;Ciudad Lineal
+2013;Anual;9301;97;9;Aravaca;Moncloa - Aravaca
+2014;Anual;7813;97;9;Aravaca;Moncloa - Aravaca
+2015;Anual;7862;97;9;Aravaca;Moncloa - Aravaca
+2016;Anual;9443;97;9;Aravaca;Moncloa - Aravaca
+2017;Anual;9755;97;9;Aravaca;Moncloa - Aravaca
+2018;Anual;9862;97;9;Aravaca;Moncloa - Aravaca
+2019;Anual;10283;97;9;Aravaca;Moncloa - Aravaca
+2020;Anual;10472;97;9;Aravaca;Moncloa - Aravaca
+2021;Anual;10624;97;9;Aravaca;Moncloa - Aravaca
+2022;Anual;10820;97;9;Aravaca;Moncloa - Aravaca
+2013;Anual;7348;63;6;Castillejos;Tetuán
+2014;Anual;6481;63;6;Castillejos;Tetuán
+2015;Anual;6425;63;6;Castillejos;Tetuán
+2016;Anual;7227;63;6;Castillejos;Tetuán
+2017;Anual;7891;63;6;Castillejos;Tetuán
+2018;Anual;7823;63;6;Castillejos;Tetuán
+2019;Anual;8187;63;6;Castillejos;Tetuán
+2020;Anual;8326;63;6;Castillejos;Tetuán
+2021;Anual;8400;63;6;Castillejos;Tetuán
+2022;Anual;8635;63;6;Castillejos;Tetuán
+2013;Anual;7367;211;21;Alameda de Osuna;Barajas
+2014;Anual;6297;211;21;Alameda de Osuna;Barajas
+2015;Anual;6303;211;21;Alameda de Osuna;Barajas
+2016;Anual;7052;211;21;Alameda de Osuna;Barajas
+2017;Anual;7113;211;21;Alameda de Osuna;Barajas
+2018;Anual;7106;211;21;Alameda de Osuna;Barajas
+2019;Anual;7181;211;21;Alameda de Osuna;Barajas
+2020;Anual;7309;211;21;Alameda de Osuna;Barajas
+2021;Anual;7271;211;21;Alameda de Osuna;Barajas
+2022;Anual;7384;211;21;Alameda de Osuna;Barajas
+2013;Anual;9396;66;6;Berruguete;Tetuán
+2014;Anual;8244;66;6;Berruguete;Tetuán
+2015;Anual;8171;66;6;Berruguete;Tetuán
+2016;Anual;9366;66;6;Berruguete;Tetuán
+2017;Anual;10133;66;6;Berruguete;Tetuán
+2018;Anual;10193;66;6;Berruguete;Tetuán
+2019;Anual;10721;66;6;Berruguete;Tetuán
+2020;Anual;10865;66;6;Berruguete;Tetuán
+2021;Anual;10898;66;6;Berruguete;Tetuán
+2022;Anual;11110;66;6;Berruguete;Tetuán
+2013;Anual;2273;157;15;Colina;Ciudad Lineal
+2014;Anual;1963;157;15;Colina;Ciudad Lineal
+2015;Anual;1980;157;15;Colina;Ciudad Lineal
+2016;Anual;2197;157;15;Colina;Ciudad Lineal
+2017;Anual;2272;157;15;Colina;Ciudad Lineal
+2018;Anual;2279;157;15;Colina;Ciudad Lineal
+2019;Anual;2422;157;15;Colina;Ciudad Lineal
+2020;Anual;2535;157;15;Colina;Ciudad Lineal
+2021;Anual;2546;157;15;Colina;Ciudad Lineal
+2022;Anual;2578;157;15;Colina;Ciudad Lineal
+2013;Anual;5417;162;16;Piovera;Hortaleza
+2014;Anual;4846;162;16;Piovera;Hortaleza
+2015;Anual;4834;162;16;Piovera;Hortaleza
+2016;Anual;5537;162;16;Piovera;Hortaleza
+2017;Anual;5739;162;16;Piovera;Hortaleza
+2018;Anual;5754;162;16;Piovera;Hortaleza
+2019;Anual;5970;162;16;Piovera;Hortaleza
+2020;Anual;5996;162;16;Piovera;Hortaleza
+2021;Anual;5935;162;16;Piovera;Hortaleza
+2022;Anual;5978;162;16;Piovera;Hortaleza
+2013;Anual;10894;54;5;Hispanoamérica;Chamartín
+2014;Anual;9671;54;5;Hispanoamérica;Chamartín
+2015;Anual;9608;54;5;Hispanoamérica;Chamartín
+2016;Anual;10967;54;5;Hispanoamérica;Chamartín
+2017;Anual;11541;54;5;Hispanoamérica;Chamartín
+2018;Anual;11589;54;5;Hispanoamérica;Chamartín
+2019;Anual;11891;54;5;Hispanoamérica;Chamartín
+2020;Anual;12140;54;5;Hispanoamérica;Chamartín
+2021;Anual;12239;54;5;Hispanoamérica;Chamartín
+2022;Anual;12431;54;5;Hispanoamérica;Chamartín
+2013;Anual;10551;61;6;Bellas Vistas;Tetuán
+2014;Anual;9282;61;6;Bellas Vistas;Tetuán
+2015;Anual;9172;61;6;Bellas Vistas;Tetuán
+2016;Anual;10576;61;6;Bellas Vistas;Tetuán
+2017;Anual;11300;61;6;Bellas Vistas;Tetuán
+2018;Anual;11455;61;6;Bellas Vistas;Tetuán
+2019;Anual;11989;61;6;Bellas Vistas;Tetuán
+2020;Anual;12216;61;6;Bellas Vistas;Tetuán
+2021;Anual;12109;61;6;Bellas Vistas;Tetuán
+2022;Anual;12382;61;6;Bellas Vistas;Tetuán
+2013;Anual;1760;161;16;Palomas;Hortaleza
+2014;Anual;2156;161;16;Palomas;Hortaleza
+2015;Anual;2175;161;16;Palomas;Hortaleza
+2016;Anual;2450;161;16;Palomas;Hortaleza
+2017;Anual;2503;161;16;Palomas;Hortaleza
+2018;Anual;2533;161;16;Palomas;Hortaleza
+2019;Anual;2599;161;16;Palomas;Hortaleza
+2020;Anual;2631;161;16;Palomas;Hortaleza
+2021;Anual;2586;161;16;Palomas;Hortaleza
+2022;Anual;2647;161;16;Palomas;Hortaleza
+2013;Anual;12425;62;6;Cuatro Caminos;Tetuán
+2014;Anual;11085;62;6;Cuatro Caminos;Tetuán
+2015;Anual;10864;62;6;Cuatro Caminos;Tetuán
+2016;Anual;12377;62;6;Cuatro Caminos;Tetuán
+2017;Anual;13471;62;6;Cuatro Caminos;Tetuán
+2018;Anual;13362;62;6;Cuatro Caminos;Tetuán
+2019;Anual;13799;62;6;Cuatro Caminos;Tetuán
+2020;Anual;14229;62;6;Cuatro Caminos;Tetuán
+2021;Anual;14265;62;6;Cuatro Caminos;Tetuán
+2022;Anual;14718;62;6;Cuatro Caminos;Tetuán
+2013;Anual;4507;156;15;San Juan Bautista;Ciudad Lineal
+2014;Anual;3942;156;15;San Juan Bautista;Ciudad Lineal
+2015;Anual;3985;156;15;San Juan Bautista;Ciudad Lineal
+2016;Anual;4515;156;15;San Juan Bautista;Ciudad Lineal
+2017;Anual;4715;156;15;San Juan Bautista;Ciudad Lineal
+2018;Anual;4731;156;15;San Juan Bautista;Ciudad Lineal
+2019;Anual;4890;156;15;San Juan Bautista;Ciudad Lineal
+2020;Anual;4868;156;15;San Juan Bautista;Ciudad Lineal
+2021;Anual;4915;156;15;San Juan Bautista;Ciudad Lineal
+2022;Anual;5000;156;15;San Juan Bautista;Ciudad Lineal
+2013;Anual;13825;52;5;Prosperidad;Chamartín
+2014;Anual;12260;52;5;Prosperidad;Chamartín
+2015;Anual;12178;52;5;Prosperidad;Chamartín
+2016;Anual;13637;52;5;Prosperidad;Chamartín
+2017;Anual;14342;52;5;Prosperidad;Chamartín
+2018;Anual;14327;52;5;Prosperidad;Chamartín
+2019;Anual;14890;52;5;Prosperidad;Chamartín
+2020;Anual;15072;52;5;Prosperidad;Chamartín
+2021;Anual;14907;52;5;Prosperidad;Chamartín
+2022;Anual;15159;52;5;Prosperidad;Chamartín
+2013;Anual;6943;53;5;Ciudad Jardín;Chamartín
+2014;Anual;6120;53;5;Ciudad Jardín;Chamartín
+2015;Anual;6099;53;5;Ciudad Jardín;Chamartín
+2016;Anual;6998;53;5;Ciudad Jardín;Chamartín
+2017;Anual;7294;53;5;Ciudad Jardín;Chamartín
+2018;Anual;7316;53;5;Ciudad Jardín;Chamartín
+2019;Anual;7623;53;5;Ciudad Jardín;Chamartín
+2020;Anual;7688;53;5;Ciudad Jardín;Chamartín
+2021;Anual;7642;53;5;Ciudad Jardín;Chamartín
+2022;Anual;7697;53;5;Ciudad Jardín;Chamartín
+2013;Anual;6043;51;5;El Viso;Chamartín
+2014;Anual;5401;51;5;El Viso;Chamartín
+2015;Anual;5391;51;5;El Viso;Chamartín
+2016;Anual;6220;51;5;El Viso;Chamartín
+2017;Anual;6502;51;5;El Viso;Chamartín
+2018;Anual;6502;51;5;El Viso;Chamartín
+2019;Anual;6753;51;5;El Viso;Chamartín
+2020;Anual;6804;51;5;El Viso;Chamartín
+2021;Anual;6857;51;5;El Viso;Chamartín
+2022;Anual;6983;51;5;El Viso;Chamartín
+2013;Anual;4011;91;9;Casa de Campo;Moncloa - Aravaca
+2014;Anual;3553;91;9;Casa de Campo;Moncloa - Aravaca
+2015;Anual;3561;91;9;Casa de Campo;Moncloa - Aravaca
+2016;Anual;4398;91;9;Casa de Campo;Moncloa - Aravaca
+2017;Anual;4721;91;9;Casa de Campo;Moncloa - Aravaca
+2018;Anual;4764;91;9;Casa de Campo;Moncloa - Aravaca
+2019;Anual;4946;91;9;Casa de Campo;Moncloa - Aravaca
+2020;Anual;5027;91;9;Casa de Campo;Moncloa - Aravaca
+2021;Anual;5126;91;9;Casa de Campo;Moncloa - Aravaca
+2022;Anual;5183;91;9;Casa de Campo;Moncloa - Aravaca
+2013;Anual;6139;206;20;Rejas;San Blas - Canillejas
+2014;Anual;5583;206;20;Rejas;San Blas - Canillejas
+2015;Anual;5600;206;20;Rejas;San Blas - Canillejas
+2016;Anual;6379;206;20;Rejas;San Blas - Canillejas
+2017;Anual;6970;206;20;Rejas;San Blas - Canillejas
+2018;Anual;6979;206;20;Rejas;San Blas - Canillejas
+2019;Anual;7309;206;20;Rejas;San Blas - Canillejas
+2020;Anual;7582;206;20;Rejas;San Blas - Canillejas
+2021;Anual;7646;206;20;Rejas;San Blas - Canillejas
+2022;Anual;7798;206;20;Rejas;San Blas - Canillejas
+2013;Anual;4453;208;20;El Salvador;San Blas - Canillejas
+2014;Anual;3910;208;20;El Salvador;San Blas - Canillejas
+2015;Anual;3938;208;20;El Salvador;San Blas - Canillejas
+2016;Anual;4409;208;20;El Salvador;San Blas - Canillejas
+2017;Anual;4479;208;20;El Salvador;San Blas - Canillejas
+2018;Anual;4503;208;20;El Salvador;San Blas - Canillejas
+2019;Anual;4552;208;20;El Salvador;San Blas - Canillejas
+2020;Anual;4624;208;20;El Salvador;San Blas - Canillejas
+2021;Anual;4544;208;20;El Salvador;San Blas - Canillejas
+2022;Anual;4652;208;20;El Salvador;San Blas - Canillejas
+2013;Anual;13281;205;20;Rosas;San Blas - Canillejas
+2014;Anual;11781;205;20;Rosas;San Blas - Canillejas
+2015;Anual;11921;205;20;Rosas;San Blas - Canillejas
+2016;Anual;13318;205;20;Rosas;San Blas - Canillejas
+2017;Anual;13546;205;20;Rosas;San Blas - Canillejas
+2018;Anual;13674;205;20;Rosas;San Blas - Canillejas
+2019;Anual;13965;205;20;Rosas;San Blas - Canillejas
+2020;Anual;14146;205;20;Rosas;San Blas - Canillejas
+2021;Anual;13906;205;20;Rosas;San Blas - Canillejas
+2022;Anual;14177;205;20;Rosas;San Blas - Canillejas
+2013;Anual;10307;207;20;Canillejas;San Blas - Canillejas
+2014;Anual;9119;207;20;Canillejas;San Blas - Canillejas
+2015;Anual;9170;207;20;Canillejas;San Blas - Canillejas
+2016;Anual;10353;207;20;Canillejas;San Blas - Canillejas
+2017;Anual;10620;207;20;Canillejas;San Blas - Canillejas
+2018;Anual;10858;207;20;Canillejas;San Blas - Canillejas
+2019;Anual;11132;207;20;Canillejas;San Blas - Canillejas
+2020;Anual;11308;207;20;Canillejas;San Blas - Canillejas
+2021;Anual;11092;207;20;Canillejas;San Blas - Canillejas
+2022;Anual;11452;207;20;Canillejas;San Blas - Canillejas
+2013;Anual;6635;155;15;San Pascual;Ciudad Lineal
+2014;Anual;5693;155;15;San Pascual;Ciudad Lineal
+2015;Anual;5768;155;15;San Pascual;Ciudad Lineal
+2016;Anual;6544;155;15;San Pascual;Ciudad Lineal
+2017;Anual;6861;155;15;San Pascual;Ciudad Lineal
+2018;Anual;6875;155;15;San Pascual;Ciudad Lineal
+2019;Anual;6969;155;15;San Pascual;Ciudad Lineal
+2020;Anual;6986;155;15;San Pascual;Ciudad Lineal
+2021;Anual;6820;155;15;San Pascual;Ciudad Lineal
+2022;Anual;6852;155;15;San Pascual;Ciudad Lineal
+2013;Anual;6704;76;7;Vallehermoso;Chamberí
+2014;Anual;6026;76;7;Vallehermoso;Chamberí
+2015;Anual;5950;76;7;Vallehermoso;Chamberí
+2016;Anual;6750;76;7;Vallehermoso;Chamberí
+2017;Anual;7095;76;7;Vallehermoso;Chamberí
+2018;Anual;7085;76;7;Vallehermoso;Chamberí
+2019;Anual;7276;76;7;Vallehermoso;Chamberí
+2020;Anual;7462;76;7;Vallehermoso;Chamberí
+2021;Anual;7503;76;7;Vallehermoso;Chamberí
+2022;Anual;7662;76;7;Vallehermoso;Chamberí
+2013;Anual;10005;75;7;Ríos Rosas;Chamberí
+2014;Anual;8806;75;7;Ríos Rosas;Chamberí
+2015;Anual;8761;75;7;Ríos Rosas;Chamberí
+2016;Anual;9958;75;7;Ríos Rosas;Chamberí
+2017;Anual;10701;75;7;Ríos Rosas;Chamberí
+2018;Anual;10637;75;7;Ríos Rosas;Chamberí
+2019;Anual;11011;75;7;Ríos Rosas;Chamberí
+2020;Anual;11273;75;7;Ríos Rosas;Chamberí
+2021;Anual;11253;75;7;Ríos Rosas;Chamberí
+2022;Anual;11316;75;7;Ríos Rosas;Chamberí
+2013;Anual;7329;154;15;La Concepción;Ciudad Lineal
+2014;Anual;6457;154;15;La Concepción;Ciudad Lineal
+2015;Anual;6370;154;15;La Concepción;Ciudad Lineal
+2016;Anual;7301;154;15;La Concepción;Ciudad Lineal
+2017;Anual;7814;154;15;La Concepción;Ciudad Lineal
+2018;Anual;7800;154;15;La Concepción;Ciudad Lineal
+2019;Anual;8148;154;15;La Concepción;Ciudad Lineal
+2020;Anual;8244;154;15;La Concepción;Ciudad Lineal
+2021;Anual;8193;154;15;La Concepción;Ciudad Lineal
+2022;Anual;8417;154;15;La Concepción;Ciudad Lineal
+2013;Anual;15010;44;4;Guindalera;Salamanca
+2014;Anual;13292;44;4;Guindalera;Salamanca
+2015;Anual;13181;44;4;Guindalera;Salamanca
+2016;Anual;15031;44;4;Guindalera;Salamanca
+2017;Anual;16057;44;4;Guindalera;Salamanca
+2018;Anual;16062;44;4;Guindalera;Salamanca
+2019;Anual;16731;44;4;Guindalera;Salamanca
+2020;Anual;16881;44;4;Guindalera;Salamanca
+2021;Anual;17039;44;4;Guindalera;Salamanca
+2022;Anual;17481;44;4;Guindalera;Salamanca
+2013;Anual;9098;201;20;Simancas;San Blas - Canillejas
+2014;Anual;8658;201;20;Simancas;San Blas - Canillejas
+2015;Anual;8644;201;20;Simancas;San Blas - Canillejas
+2016;Anual;9972;201;20;Simancas;San Blas - Canillejas
+2017;Anual;10742;201;20;Simancas;San Blas - Canillejas
+2018;Anual;10891;201;20;Simancas;San Blas - Canillejas
+2019;Anual;11471;201;20;Simancas;San Blas - Canillejas
+2020;Anual;11854;201;20;Simancas;San Blas - Canillejas
+2021;Anual;11813;201;20;Simancas;San Blas - Canillejas
+2022;Anual;12160;201;20;Simancas;San Blas - Canillejas
+2013;Anual;8883;153;15;Quintana;Ciudad Lineal
+2014;Anual;7695;153;15;Quintana;Ciudad Lineal
+2015;Anual;7612;153;15;Quintana;Ciudad Lineal
+2016;Anual;8889;153;15;Quintana;Ciudad Lineal
+2017;Anual;9332;153;15;Quintana;Ciudad Lineal
+2018;Anual;9503;153;15;Quintana;Ciudad Lineal
+2019;Anual;9984;153;15;Quintana;Ciudad Lineal
+2020;Anual;10161;153;15;Quintana;Ciudad Lineal
+2021;Anual;10117;153;15;Quintana;Ciudad Lineal
+2022;Anual;10366;153;15;Quintana;Ciudad Lineal
+2013;Anual;8168;71;7;Gaztambide;Chamberí
+2014;Anual;7158;71;7;Gaztambide;Chamberí
+2015;Anual;7081;71;7;Gaztambide;Chamberí
+2016;Anual;8074;71;7;Gaztambide;Chamberí
+2017;Anual;8454;71;7;Gaztambide;Chamberí
+2018;Anual;8422;71;7;Gaztambide;Chamberí
+2019;Anual;8680;71;7;Gaztambide;Chamberí
+2020;Anual;8954;71;7;Gaztambide;Chamberí
+2021;Anual;9103;71;7;Gaztambide;Chamberí
+2022;Anual;9131;71;7;Gaztambide;Chamberí
+2013;Anual;9120;72;7;Arapiles;Chamberí
+2014;Anual;7920;72;7;Arapiles;Chamberí
+2015;Anual;7813;72;7;Arapiles;Chamberí
+2016;Anual;8883;72;7;Arapiles;Chamberí
+2017;Anual;9470;72;7;Arapiles;Chamberí
+2018;Anual;9433;72;7;Arapiles;Chamberí
+2019;Anual;9751;72;7;Arapiles;Chamberí
+2020;Anual;9935;72;7;Arapiles;Chamberí
+2021;Anual;10026;72;7;Arapiles;Chamberí
+2022;Anual;10087;72;7;Arapiles;Chamberí
+2013;Anual;9468;73;7;Trafalgar;Chamberí
+2014;Anual;8294;73;7;Trafalgar;Chamberí
+2015;Anual;8147;73;7;Trafalgar;Chamberí
+2016;Anual;9476;73;7;Trafalgar;Chamberí
+2017;Anual;10259;73;7;Trafalgar;Chamberí
+2018;Anual;10205;73;7;Trafalgar;Chamberí
+2019;Anual;10454;73;7;Trafalgar;Chamberí
+2020;Anual;10652;73;7;Trafalgar;Chamberí
+2021;Anual;10581;73;7;Trafalgar;Chamberí
+2022;Anual;10728;73;7;Trafalgar;Chamberí
+2013;Anual;6892;74;7;Almagro;Chamberí
+2014;Anual;6149;74;7;Almagro;Chamberí
+2015;Anual;6089;74;7;Almagro;Chamberí
+2016;Anual;7125;74;7;Almagro;Chamberí
+2017;Anual;7492;74;7;Almagro;Chamberí
+2018;Anual;7492;74;7;Almagro;Chamberí
+2019;Anual;7665;74;7;Almagro;Chamberí
+2020;Anual;7772;74;7;Almagro;Chamberí
+2021;Anual;7673;74;7;Almagro;Chamberí
+2022;Anual;7743;74;7;Almagro;Chamberí
+2013;Anual;5734;46;4;Castellana;Salamanca
+2014;Anual;5107;46;4;Castellana;Salamanca
+2015;Anual;5045;46;4;Castellana;Salamanca
+2016;Anual;5811;46;4;Castellana;Salamanca
+2017;Anual;5986;46;4;Castellana;Salamanca
+2018;Anual;6049;46;4;Castellana;Salamanca
+2019;Anual;6158;46;4;Castellana;Salamanca
+2020;Anual;6179;46;4;Castellana;Salamanca
+2021;Anual;6113;46;4;Castellana;Salamanca
+2022;Anual;6143;46;4;Castellana;Salamanca
+2013;Anual;22456;152;15;Pueblo Nuevo;Ciudad Lineal
+2014;Anual;19655;152;15;Pueblo Nuevo;Ciudad Lineal
+2015;Anual;19625;152;15;Pueblo Nuevo;Ciudad Lineal
+2016;Anual;22545;152;15;Pueblo Nuevo;Ciudad Lineal
+2017;Anual;23621;152;15;Pueblo Nuevo;Ciudad Lineal
+2018;Anual;23978;152;15;Pueblo Nuevo;Ciudad Lineal
+2019;Anual;25108;152;15;Pueblo Nuevo;Ciudad Lineal
+2020;Anual;25456;152;15;Pueblo Nuevo;Ciudad Lineal
+2021;Anual;25211;152;15;Pueblo Nuevo;Ciudad Lineal
+2022;Anual;25972;152;15;Pueblo Nuevo;Ciudad Lineal
+2013;Anual;7208;45;4;Lista;Salamanca
+2014;Anual;6409;45;4;Lista;Salamanca
+2015;Anual;6298;45;4;Lista;Salamanca
+2016;Anual;7181;45;4;Lista;Salamanca
+2017;Anual;7618;45;4;Lista;Salamanca
+2018;Anual;7665;45;4;Lista;Salamanca
+2019;Anual;8044;45;4;Lista;Salamanca
+2020;Anual;8061;45;4;Lista;Salamanca
+2021;Anual;7953;45;4;Lista;Salamanca
+2022;Anual;8131;45;4;Lista;Salamanca
+2013;Anual;8517;92;9;Argüelles;Moncloa - Aravaca
+2014;Anual;7425;92;9;Argüelles;Moncloa - Aravaca
+2015;Anual;7357;92;9;Argüelles;Moncloa - Aravaca
+2016;Anual;8436;92;9;Argüelles;Moncloa - Aravaca
+2017;Anual;8928;92;9;Argüelles;Moncloa - Aravaca
+2018;Anual;8905;92;9;Argüelles;Moncloa - Aravaca
+2019;Anual;9064;92;9;Argüelles;Moncloa - Aravaca
+2020;Anual;9244;92;9;Argüelles;Moncloa - Aravaca
+2021;Anual;9277;92;9;Argüelles;Moncloa - Aravaca
+2022;Anual;9383;92;9;Argüelles;Moncloa - Aravaca
+2013;Anual;2800;202;20;Hellín;San Blas - Canillejas
+2014;Anual;2418;202;20;Hellín;San Blas - Canillejas
+2015;Anual;2464;202;20;Hellín;San Blas - Canillejas
+2016;Anual;2849;202;20;Hellín;San Blas - Canillejas
+2017;Anual;3129;202;20;Hellín;San Blas - Canillejas
+2018;Anual;3251;202;20;Hellín;San Blas - Canillejas
+2019;Anual;3389;202;20;Hellín;San Blas - Canillejas
+2020;Anual;3537;202;20;Hellín;San Blas - Canillejas
+2021;Anual;3478;202;20;Hellín;San Blas - Canillejas
+2022;Anual;3732;202;20;Hellín;San Blas - Canillejas
+2013;Anual;17093;151;15;Ventas;Ciudad Lineal
+2014;Anual;14941;151;15;Ventas;Ciudad Lineal
+2015;Anual;14924;151;15;Ventas;Ciudad Lineal
+2016;Anual;16891;151;15;Ventas;Ciudad Lineal
+2017;Anual;17890;151;15;Ventas;Ciudad Lineal
+2018;Anual;18083;151;15;Ventas;Ciudad Lineal
+2019;Anual;18939;151;15;Ventas;Ciudad Lineal
+2020;Anual;19350;151;15;Ventas;Ciudad Lineal
+2021;Anual;19373;151;15;Ventas;Ciudad Lineal
+2022;Anual;19984;151;15;Ventas;Ciudad Lineal
+2013;Anual;7940;43;4;Fuente del Berro;Salamanca
+2014;Anual;6938;43;4;Fuente del Berro;Salamanca
+2015;Anual;6910;43;4;Fuente del Berro;Salamanca
+2016;Anual;7801;43;4;Fuente del Berro;Salamanca
+2017;Anual;8204;43;4;Fuente del Berro;Salamanca
+2018;Anual;8258;43;4;Fuente del Berro;Salamanca
+2019;Anual;8503;43;4;Fuente del Berro;Salamanca
+2020;Anual;8710;43;4;Fuente del Berro;Salamanca
+2021;Anual;8628;43;4;Fuente del Berro;Salamanca
+2022;Anual;8769;43;4;Fuente del Berro;Salamanca
+2013;Anual;12819;15;1;Universidad;Centro
+2014;Anual;11082;15;1;Universidad;Centro
+2015;Anual;10846;15;1;Universidad;Centro
+2016;Anual;12502;15;1;Universidad;Centro
+2017;Anual;13617;15;1;Universidad;Centro
+2018;Anual;13378;15;1;Universidad;Centro
+2019;Anual;13824;15;1;Universidad;Centro
+2020;Anual;14372;15;1;Universidad;Centro
+2021;Anual;14985;15;1;Universidad;Centro
+2022;Anual;15473;15;1;Universidad;Centro
+2013;Anual;5292;41;4;Recoletos;Salamanca
+2014;Anual;4566;41;4;Recoletos;Salamanca
+2015;Anual;4568;41;4;Recoletos;Salamanca
+2016;Anual;5331;41;4;Recoletos;Salamanca
+2017;Anual;5554;41;4;Recoletos;Salamanca
+2018;Anual;5516;41;4;Recoletos;Salamanca
+2019;Anual;5592;41;4;Recoletos;Salamanca
+2020;Anual;5573;41;4;Recoletos;Salamanca
+2021;Anual;5544;41;4;Recoletos;Salamanca
+2022;Anual;5604;41;4;Recoletos;Salamanca
+2013;Anual;6690;14;1;Justicia;Centro
+2014;Anual;5787;14;1;Justicia;Centro
+2015;Anual;5618;14;1;Justicia;Centro
+2016;Anual;6477;14;1;Justicia;Centro
+2017;Anual;7028;14;1;Justicia;Centro
+2018;Anual;6926;14;1;Justicia;Centro
+2019;Anual;7166;14;1;Justicia;Centro
+2020;Anual;7488;14;1;Justicia;Centro
+2021;Anual;7859;14;1;Justicia;Centro
+2022;Anual;8163;14;1;Justicia;Centro
+2013;Anual;2572;203;20;Amposta;San Blas - Canillejas
+2014;Anual;2235;203;20;Amposta;San Blas - Canillejas
+2015;Anual;2264;203;20;Amposta;San Blas - Canillejas
+2016;Anual;2612;203;20;Amposta;San Blas - Canillejas
+2017;Anual;2817;203;20;Amposta;San Blas - Canillejas
+2018;Anual;2909;203;20;Amposta;San Blas - Canillejas
+2019;Anual;3071;203;20;Amposta;San Blas - Canillejas
+2020;Anual;3183;203;20;Amposta;San Blas - Canillejas
+2021;Anual;3202;203;20;Amposta;San Blas - Canillejas
+2022;Anual;3369;203;20;Amposta;San Blas - Canillejas
+2013;Anual;10532;42;4;Goya;Salamanca
+2014;Anual;9294;42;4;Goya;Salamanca
+2015;Anual;9230;42;4;Goya;Salamanca
+2016;Anual;10604;42;4;Goya;Salamanca
+2017;Anual;11271;42;4;Goya;Salamanca
+2018;Anual;11191;42;4;Goya;Salamanca
+2019;Anual;11583;42;4;Goya;Salamanca
+2020;Anual;11575;42;4;Goya;Salamanca
+2021;Anual;11513;42;4;Goya;Salamanca
+2022;Anual;11732;42;4;Goya;Salamanca
+2013;Anual;8276;204;20;Arcos;San Blas - Canillejas
+2014;Anual;7335;204;20;Arcos;San Blas - Canillejas
+2015;Anual;7520;204;20;Arcos;San Blas - Canillejas
+2016;Anual;8623;204;20;Arcos;San Blas - Canillejas
+2017;Anual;9154;204;20;Arcos;San Blas - Canillejas
+2018;Anual;9438;204;20;Arcos;San Blas - Canillejas
+2019;Anual;9803;204;20;Arcos;San Blas - Canillejas
+2020;Anual;9958;204;20;Arcos;San Blas - Canillejas
+2021;Anual;9859;204;20;Arcos;San Blas - Canillejas
+2022;Anual;10427;204;20;Arcos;San Blas - Canillejas
+2013;Anual;8593;11;1;Palacio;Centro
+2014;Anual;7587;11;1;Palacio;Centro
+2015;Anual;7489;11;1;Palacio;Centro
+2016;Anual;8709;11;1;Palacio;Centro
+2017;Anual;9310;11;1;Palacio;Centro
+2018;Anual;9336;11;1;Palacio;Centro
+2019;Anual;9542;11;1;Palacio;Centro
+2020;Anual;9841;11;1;Palacio;Centro
+2021;Anual;9874;11;1;Palacio;Centro
+2022;Anual;10168;11;1;Palacio;Centro
+2013;Anual;7884;34;3;Ibiza;Retiro
+2014;Anual;6946;34;3;Ibiza;Retiro
+2015;Anual;6866;34;3;Ibiza;Retiro
+2016;Anual;7757;34;3;Ibiza;Retiro
+2017;Anual;8213;34;3;Ibiza;Retiro
+2018;Anual;8126;34;3;Ibiza;Retiro
+2019;Anual;8317;34;3;Ibiza;Retiro
+2020;Anual;8412;34;3;Ibiza;Retiro
+2021;Anual;8417;34;3;Ibiza;Retiro
+2022;Anual;8483;34;3;Ibiza;Retiro
+2013;Anual;2299;35;3;Los Jerónimos;Retiro
+2014;Anual;1999;35;3;Los Jerónimos;Retiro
+2015;Anual;1986;35;3;Los Jerónimos;Retiro
+2016;Anual;2307;35;3;Los Jerónimos;Retiro
+2017;Anual;2428;35;3;Los Jerónimos;Retiro
+2018;Anual;2405;35;3;Los Jerónimos;Retiro
+2019;Anual;2465;35;3;Los Jerónimos;Retiro
+2020;Anual;2441;35;3;Los Jerónimos;Retiro
+2021;Anual;2431;35;3;Los Jerónimos;Retiro
+2022;Anual;2486;35;3;Los Jerónimos;Retiro
+2013;Anual;8263;33;3;Estrella;Retiro
+2014;Anual;7288;33;3;Estrella;Retiro
+2015;Anual;7252;33;3;Estrella;Retiro
+2016;Anual;8225;33;3;Estrella;Retiro
+2017;Anual;8318;33;3;Estrella;Retiro
+2018;Anual;8348;33;3;Estrella;Retiro
+2019;Anual;8425;33;3;Estrella;Retiro
+2020;Anual;8444;33;3;Estrella;Retiro
+2021;Anual;8461;33;3;Estrella;Retiro
+2022;Anual;8593;33;3;Estrella;Retiro
+2013;Anual;2933;16;1;Sol;Centro
+2014;Anual;2496;16;1;Sol;Centro
+2015;Anual;2477;16;1;Sol;Centro
+2016;Anual;2775;16;1;Sol;Centro
+2017;Anual;2989;16;1;Sol;Centro
+2018;Anual;2965;16;1;Sol;Centro
+2019;Anual;2996;16;1;Sol;Centro
+2020;Anual;3069;16;1;Sol;Centro
+2021;Anual;3062;16;1;Sol;Centro
+2022;Anual;3295;16;1;Sol;Centro
+2013;Anual;4132;13;1;Cortes;Centro
+2014;Anual;3627;13;1;Cortes;Centro
+2015;Anual;3537;13;1;Cortes;Centro
+2016;Anual;4082;13;1;Cortes;Centro
+2017;Anual;4478;13;1;Cortes;Centro
+2018;Anual;4449;13;1;Cortes;Centro
+2019;Anual;4523;13;1;Cortes;Centro
+2020;Anual;4549;13;1;Cortes;Centro
+2021;Anual;4587;13;1;Cortes;Centro
+2022;Anual;4659;13;1;Cortes;Centro
+2013;Anual;6127;144;14;Media Legua;Moratalaz
+2014;Anual;5337;144;14;Media Legua;Moratalaz
+2015;Anual;5362;144;14;Media Legua;Moratalaz
+2016;Anual;6102;144;14;Media Legua;Moratalaz
+2017;Anual;6171;144;14;Media Legua;Moratalaz
+2018;Anual;6173;144;14;Media Legua;Moratalaz
+2019;Anual;6311;144;14;Media Legua;Moratalaz
+2020;Anual;6369;144;14;Media Legua;Moratalaz
+2021;Anual;6259;144;14;Media Legua;Moratalaz
+2022;Anual;6354;144;14;Media Legua;Moratalaz
+2013;Anual;14701;102;10;Puerta del Ángel;Latina
+2014;Anual;12949;102;10;Puerta del Ángel;Latina
+2015;Anual;12850;102;10;Puerta del Ángel;Latina
+2016;Anual;14778;102;10;Puerta del Ángel;Latina
+2017;Anual;15657;102;10;Puerta del Ángel;Latina
+2018;Anual;15852;102;10;Puerta del Ángel;Latina
+2019;Anual;16464;102;10;Puerta del Ángel;Latina
+2020;Anual;16628;102;10;Puerta del Ángel;Latina
+2021;Anual;16320;102;10;Puerta del Ángel;Latina
+2022;Anual;16960;102;10;Puerta del Ángel;Latina
+2013;Anual;5407;36;3;Niño Jesús;Retiro
+2014;Anual;4799;36;3;Niño Jesús;Retiro
+2015;Anual;4776;36;3;Niño Jesús;Retiro
+2016;Anual;5435;36;3;Niño Jesús;Retiro
+2017;Anual;5599;36;3;Niño Jesús;Retiro
+2018;Anual;5631;36;3;Niño Jesús;Retiro
+2019;Anual;5708;36;3;Niño Jesús;Retiro
+2020;Anual;5816;36;3;Niño Jesús;Retiro
+2021;Anual;5770;36;3;Niño Jesús;Retiro
+2022;Anual;5849;36;3;Niño Jesús;Retiro
+2013;Anual;9830;143;14;Marroquina;Moratalaz
+2014;Anual;8747;143;14;Marroquina;Moratalaz
+2015;Anual;8821;143;14;Marroquina;Moratalaz
+2016;Anual;9804;143;14;Marroquina;Moratalaz
+2017;Anual;10063;143;14;Marroquina;Moratalaz
+2018;Anual;10269;143;14;Marroquina;Moratalaz
+2019;Anual;10498;143;14;Marroquina;Moratalaz
+2020;Anual;10510;143;14;Marroquina;Moratalaz
+2021;Anual;10282;143;14;Marroquina;Moratalaz
+2022;Anual;10320;143;14;Marroquina;Moratalaz
+2013;Anual;17458;12;1;Embajadores;Centro
+2014;Anual;14827;12;1;Embajadores;Centro
+2015;Anual;14604;12;1;Embajadores;Centro
+2016;Anual;17263;12;1;Embajadores;Centro
+2017;Anual;19057;12;1;Embajadores;Centro
+2018;Anual;18971;12;1;Embajadores;Centro
+2019;Anual;19531;12;1;Embajadores;Centro
+2020;Anual;19987;12;1;Embajadores;Centro
+2021;Anual;20339;12;1;Embajadores;Centro
+2022;Anual;21169;12;1;Embajadores;Centro
+2013;Anual;8696;21;2;Imperial;Arganzuela
+2014;Anual;7268;21;2;Imperial;Arganzuela
+2015;Anual;7223;21;2;Imperial;Arganzuela
+2016;Anual;8791;21;2;Imperial;Arganzuela
+2017;Anual;9232;21;2;Imperial;Arganzuela
+2018;Anual;9199;21;2;Imperial;Arganzuela
+2019;Anual;9425;21;2;Imperial;Arganzuela
+2020;Anual;9492;21;2;Imperial;Arganzuela
+2021;Anual;9338;21;2;Imperial;Arganzuela
+2022;Anual;9462;21;2;Imperial;Arganzuela
+2013;Anual;2009;142;14;Horcajo;Moratalaz
+2014;Anual;2355;142;14;Horcajo;Moratalaz
+2015;Anual;2388;142;14;Horcajo;Moratalaz
+2016;Anual;2697;142;14;Horcajo;Moratalaz
+2017;Anual;2725;142;14;Horcajo;Moratalaz
+2018;Anual;2783;142;14;Horcajo;Moratalaz
+2019;Anual;2815;142;14;Horcajo;Moratalaz
+2020;Anual;2842;142;14;Horcajo;Moratalaz
+2021;Anual;2813;142;14;Horcajo;Moratalaz
+2022;Anual;2884;142;14;Horcajo;Moratalaz
+2013;Anual;12304;103;10;Lucero;Latina
+2014;Anual;10797;103;10;Lucero;Latina
+2015;Anual;10853;103;10;Lucero;Latina
+2016;Anual;12330;103;10;Lucero;Latina
+2017;Anual;12909;103;10;Lucero;Latina
+2018;Anual;13217;103;10;Lucero;Latina
+2019;Anual;13750;103;10;Lucero;Latina
+2020;Anual;14046;103;10;Lucero;Latina
+2021;Anual;13952;103;10;Lucero;Latina
+2022;Anual;14415;103;10;Lucero;Latina
+2013;Anual;5753;146;14;Vinateros;Moratalaz
+2014;Anual;5028;146;14;Vinateros;Moratalaz
+2015;Anual;5120;146;14;Vinateros;Moratalaz
+2016;Anual;5693;146;14;Vinateros;Moratalaz
+2017;Anual;5920;146;14;Vinateros;Moratalaz
+2018;Anual;5987;146;14;Vinateros;Moratalaz
+2019;Anual;6175;146;14;Vinateros;Moratalaz
+2020;Anual;6268;146;14;Vinateros;Moratalaz
+2021;Anual;6283;146;14;Vinateros;Moratalaz
+2022;Anual;6459;146;14;Vinateros;Moratalaz
+2013;Anual;5819;101;10;Los Cármenes;Latina
+2014;Anual;5049;101;10;Los Cármenes;Latina
+2015;Anual;5058;101;10;Los Cármenes;Latina
+2016;Anual;5845;101;10;Los Cármenes;Latina
+2017;Anual;6201;101;10;Los Cármenes;Latina
+2018;Anual;6295;101;10;Los Cármenes;Latina
+2019;Anual;6623;101;10;Los Cármenes;Latina
+2020;Anual;6779;101;10;Los Cármenes;Latina
+2021;Anual;6669;101;10;Los Cármenes;Latina
+2022;Anual;6912;101;10;Los Cármenes;Latina
+2013;Anual;462;27;2;Atocha;Arganzuela
+2014;Anual;405;27;2;Atocha;Arganzuela
+2015;Anual;409;27;2;Atocha;Arganzuela
+2016;Anual;467;27;2;Atocha;Arganzuela
+2017;Anual;479;27;2;Atocha;Arganzuela
+2018;Anual;492;27;2;Atocha;Arganzuela
+2019;Anual;499;27;2;Atocha;Arganzuela
+2020;Anual;509;27;2;Atocha;Arganzuela
+2021;Anual;532;27;2;Atocha;Arganzuela
+2022;Anual;667;27;2;Atocha;Arganzuela
+2013;Anual;5504;145;14;Fontarrón;Moratalaz
+2014;Anual;4861;145;14;Fontarrón;Moratalaz
+2015;Anual;4841;145;14;Fontarrón;Moratalaz
+2016;Anual;5567;145;14;Fontarrón;Moratalaz
+2017;Anual;5909;145;14;Fontarrón;Moratalaz
+2018;Anual;6050;145;14;Fontarrón;Moratalaz
+2019;Anual;6307;145;14;Fontarrón;Moratalaz
+2020;Anual;6492;145;14;Fontarrón;Moratalaz
+2021;Anual;6516;145;14;Fontarrón;Moratalaz
+2022;Anual;6793;145;14;Fontarrón;Moratalaz
+2013;Anual;10103;26;2;Palos de la Frontera;Arganzuela
+2014;Anual;8909;26;2;Palos de la Frontera;Arganzuela
+2015;Anual;8864;26;2;Palos de la Frontera;Arganzuela
+2016;Anual;10005;26;2;Palos de la Frontera;Arganzuela
+2017;Anual;10689;26;2;Palos de la Frontera;Arganzuela
+2018;Anual;10683;26;2;Palos de la Frontera;Arganzuela
+2019;Anual;11006;26;2;Palos de la Frontera;Arganzuela
+2020;Anual;10989;26;2;Palos de la Frontera;Arganzuela
+2021;Anual;11189;26;2;Palos de la Frontera;Arganzuela
+2022;Anual;11252;26;2;Palos de la Frontera;Arganzuela
+2013;Anual;12718;31;3;Pacífico;Retiro
+2014;Anual;11180;31;3;Pacífico;Retiro
+2015;Anual;11155;31;3;Pacífico;Retiro
+2016;Anual;12376;31;3;Pacífico;Retiro
+2017;Anual;13078;31;3;Pacífico;Retiro
+2018;Anual;13131;31;3;Pacífico;Retiro
+2019;Anual;13328;31;3;Pacífico;Retiro
+2020;Anual;13401;31;3;Pacífico;Retiro
+2021;Anual;13225;31;3;Pacífico;Retiro
+2022;Anual;13415;31;3;Pacífico;Retiro
+2013;Anual;14303;22;2;Acacias;Arganzuela
+2014;Anual;12395;22;2;Acacias;Arganzuela
+2015;Anual;12424;22;2;Acacias;Arganzuela
+2016;Anual;13587;22;2;Acacias;Arganzuela
+2017;Anual;14754;22;2;Acacias;Arganzuela
+2018;Anual;14797;22;2;Acacias;Arganzuela
+2019;Anual;15142;22;2;Acacias;Arganzuela
+2020;Anual;15175;22;2;Acacias;Arganzuela
+2021;Anual;15058;22;2;Acacias;Arganzuela
+2022;Anual;15203;22;2;Acacias;Arganzuela
+2013;Anual;6947;32;3;Adelfas;Retiro
+2014;Anual;6227;32;3;Adelfas;Retiro
+2015;Anual;6199;32;3;Adelfas;Retiro
+2016;Anual;7135;32;3;Adelfas;Retiro
+2017;Anual;7550;32;3;Adelfas;Retiro
+2018;Anual;7500;32;3;Adelfas;Retiro
+2019;Anual;7722;32;3;Adelfas;Retiro
+2020;Anual;7753;32;3;Adelfas;Retiro
+2021;Anual;7780;32;3;Adelfas;Retiro
+2022;Anual;7913;32;3;Adelfas;Retiro
+2013;Anual;16232;136;13;Numancia;Puente de Vallecas
+2014;Anual;14137;136;13;Numancia;Puente de Vallecas
+2015;Anual;14121;136;13;Numancia;Puente de Vallecas
+2016;Anual;16360;136;13;Numancia;Puente de Vallecas
+2017;Anual;17078;136;13;Numancia;Puente de Vallecas
+2018;Anual;17413;136;13;Numancia;Puente de Vallecas
+2019;Anual;18215;136;13;Numancia;Puente de Vallecas
+2020;Anual;18720;136;13;Numancia;Puente de Vallecas
+2021;Anual;18456;136;13;Numancia;Puente de Vallecas
+2022;Anual;19116;136;13;Numancia;Puente de Vallecas
+2017;Anual;0;192;19;Valdebernardo;Vicálvaro
+2018;Anual;7517;192;19;Valdebernardo;Vicálvaro
+2019;Anual;7649;192;19;Valdebernardo;Vicálvaro
+2020;Anual;7656;192;19;Valdebernardo;Vicálvaro
+2021;Anual;7542;192;19;Valdebernardo;Vicálvaro
+2022;Anual;7660;192;19;Valdebernardo;Vicálvaro
+2013;Anual;13118;113;11;San Isidro;Carabanchel
+2014;Anual;11418;113;11;San Isidro;Carabanchel
+2015;Anual;11443;113;11;San Isidro;Carabanchel
+2016;Anual;13215;113;11;San Isidro;Carabanchel
+2017;Anual;13929;113;11;San Isidro;Carabanchel
+2018;Anual;14228;113;11;San Isidro;Carabanchel
+2019;Anual;14907;113;11;San Isidro;Carabanchel
+2020;Anual;15179;113;11;San Isidro;Carabanchel
+2021;Anual;15080;113;11;San Isidro;Carabanchel
+2022;Anual;15692;113;11;San Isidro;Carabanchel
+2017;Anual;0;193;19;Valderrivas;Vicálvaro
+2018;Anual;8542;193;19;Valderrivas;Vicálvaro
+2019;Anual;8699;193;19;Valderrivas;Vicálvaro
+2020;Anual;8683;193;19;Valderrivas;Vicálvaro
+2021;Anual;8608;193;19;Valderrivas;Vicálvaro
+2022;Anual;8678;193;19;Valderrivas;Vicálvaro
+2013;Anual;3145;141;14;Pavones;Moratalaz
+2014;Anual;2779;141;14;Pavones;Moratalaz
+2015;Anual;2784;141;14;Pavones;Moratalaz
+2016;Anual;3103;141;14;Pavones;Moratalaz
+2017;Anual;3162;141;14;Pavones;Moratalaz
+2018;Anual;3172;141;14;Pavones;Moratalaz
+2019;Anual;3265;141;14;Pavones;Moratalaz
+2020;Anual;3223;141;14;Pavones;Moratalaz
+2021;Anual;3200;141;14;Pavones;Moratalaz
+2022;Anual;3214;141;14;Pavones;Moratalaz
+2013;Anual;22285;104;10;Aluche;Latina
+2014;Anual;19300;104;10;Aluche;Latina
+2015;Anual;19399;104;10;Aluche;Latina
+2016;Anual;22062;104;10;Aluche;Latina
+2017;Anual;22607;104;10;Aluche;Latina
+2018;Anual;22881;104;10;Aluche;Latina
+2019;Anual;23788;104;10;Aluche;Latina
+2020;Anual;24025;104;10;Aluche;Latina
+2021;Anual;23792;104;10;Aluche;Latina
+2022;Anual;24739;104;10;Aluche;Latina
+2013;Anual;10809;25;2;Delicias;Arganzuela
+2014;Anual;9634;25;2;Delicias;Arganzuela
+2015;Anual;9604;25;2;Delicias;Arganzuela
+2016;Anual;10863;25;2;Delicias;Arganzuela
+2017;Anual;11633;25;2;Delicias;Arganzuela
+2018;Anual;11612;25;2;Delicias;Arganzuela
+2019;Anual;11942;25;2;Delicias;Arganzuela
+2020;Anual;12074;25;2;Delicias;Arganzuela
+2021;Anual;12196;25;2;Delicias;Arganzuela
+2022;Anual;12690;25;2;Delicias;Arganzuela
+2013;Anual;7398;23;2;Chopera;Arganzuela
+2014;Anual;6534;23;2;Chopera;Arganzuela
+2015;Anual;6518;23;2;Chopera;Arganzuela
+2016;Anual;7296;23;2;Chopera;Arganzuela
+2017;Anual;7869;23;2;Chopera;Arganzuela
+2018;Anual;7932;23;2;Chopera;Arganzuela
+2019;Anual;8241;23;2;Chopera;Arganzuela
+2020;Anual;8358;23;2;Chopera;Arganzuela
+2021;Anual;8216;23;2;Chopera;Arganzuela
+2022;Anual;8570;23;2;Chopera;Arganzuela
+2013;Anual;6236;105;10;Campamento;Latina
+2014;Anual;5500;105;10;Campamento;Latina
+2015;Anual;5589;105;10;Campamento;Latina
+2016;Anual;6340;105;10;Campamento;Latina
+2017;Anual;6587;105;10;Campamento;Latina
+2018;Anual;6692;105;10;Campamento;Latina
+2019;Anual;6944;105;10;Campamento;Latina
+2020;Anual;7022;105;10;Campamento;Latina
+2021;Anual;7071;105;10;Campamento;Latina
+2022;Anual;7400;105;10;Campamento;Latina
+2013;Anual;7402;111;11;Comillas;Carabanchel
+2014;Anual;6577;111;11;Comillas;Carabanchel
+2015;Anual;6576;111;11;Comillas;Carabanchel
+2016;Anual;7623;111;11;Comillas;Carabanchel
+2017;Anual;8071;111;11;Comillas;Carabanchel
+2018;Anual;8161;111;11;Comillas;Carabanchel
+2019;Anual;8410;111;11;Comillas;Carabanchel
+2020;Anual;8529;111;11;Comillas;Carabanchel
+2021;Anual;8599;111;11;Comillas;Carabanchel
+2022;Anual;8848;111;11;Comillas;Carabanchel
+2013;Anual;9078;135;13;Portazgo;Puente de Vallecas
+2014;Anual;7991;135;13;Portazgo;Puente de Vallecas
+2015;Anual;8074;135;13;Portazgo;Puente de Vallecas
+2016;Anual;9116;135;13;Portazgo;Puente de Vallecas
+2017;Anual;9754;135;13;Portazgo;Puente de Vallecas
+2018;Anual;9903;135;13;Portazgo;Puente de Vallecas
+2019;Anual;10360;135;13;Portazgo;Puente de Vallecas
+2020;Anual;10664;135;13;Portazgo;Puente de Vallecas
+2021;Anual;10416;135;13;Portazgo;Puente de Vallecas
+2022;Anual;10863;135;13;Portazgo;Puente de Vallecas
+2013;Anual;13354;132;13;San Diego;Puente de Vallecas
+2014;Anual;11323;132;13;San Diego;Puente de Vallecas
+2015;Anual;11282;132;13;San Diego;Puente de Vallecas
+2016;Anual;13431;132;13;San Diego;Puente de Vallecas
+2017;Anual;14520;132;13;San Diego;Puente de Vallecas
+2018;Anual;15019;132;13;San Diego;Puente de Vallecas
+2019;Anual;15987;132;13;San Diego;Puente de Vallecas
+2020;Anual;16685;132;13;San Diego;Puente de Vallecas
+2021;Anual;16603;132;13;San Diego;Puente de Vallecas
+2022;Anual;17447;132;13;San Diego;Puente de Vallecas
+2013;Anual;11448;112;11;Opañel;Carabanchel
+2014;Anual;9911;112;11;Opañel;Carabanchel
+2015;Anual;9909;112;11;Opañel;Carabanchel
+2016;Anual;11392;112;11;Opañel;Carabanchel
+2017;Anual;12121;112;11;Opañel;Carabanchel
+2018;Anual;12316;112;11;Opañel;Carabanchel
+2019;Anual;12939;112;11;Opañel;Carabanchel
+2020;Anual;13124;112;11;Opañel;Carabanchel
+2021;Anual;13031;112;11;Opañel;Carabanchel
+2022;Anual;13635;112;11;Opañel;Carabanchel
+2013;Anual;8682;125;12;Moscardó;Usera
+2014;Anual;7441;125;12;Moscardó;Usera
+2015;Anual;7407;125;12;Moscardó;Usera
+2016;Anual;8670;125;12;Moscardó;Usera
+2017;Anual;9450;125;12;Moscardó;Usera
+2018;Anual;9580;125;12;Moscardó;Usera
+2019;Anual;10015;125;12;Moscardó;Usera
+2020;Anual;10219;125;12;Moscardó;Usera
+2021;Anual;10084;125;12;Moscardó;Usera
+2022;Anual;10460;125;12;Moscardó;Usera
+2013;Anual;8113;24;2;Legazpi;Arganzuela
+2014;Anual;7347;24;2;Legazpi;Arganzuela
+2015;Anual;7317;24;2;Legazpi;Arganzuela
+2016;Anual;7718;24;2;Legazpi;Arganzuela
+2017;Anual;9147;24;2;Legazpi;Arganzuela
+2018;Anual;9085;24;2;Legazpi;Arganzuela
+2019;Anual;9411;24;2;Legazpi;Arganzuela
+2020;Anual;9581;24;2;Legazpi;Arganzuela
+2021;Anual;9534;24;2;Legazpi;Arganzuela
+2022;Anual;9618;24;2;Legazpi;Arganzuela
+2013;Anual;14554;133;13;Palomeras Bajas;Puente de Vallecas
+2014;Anual;12765;133;13;Palomeras Bajas;Puente de Vallecas
+2015;Anual;12989;133;13;Palomeras Bajas;Puente de Vallecas
+2016;Anual;14899;133;13;Palomeras Bajas;Puente de Vallecas
+2017;Anual;15466;133;13;Palomeras Bajas;Puente de Vallecas
+2018;Anual;15913;133;13;Palomeras Bajas;Puente de Vallecas
+2019;Anual;16658;133;13;Palomeras Bajas;Puente de Vallecas
+2020;Anual;17020;133;13;Palomeras Bajas;Puente de Vallecas
+2021;Anual;16712;133;13;Palomeras Bajas;Puente de Vallecas
+2022;Anual;16960;133;13;Palomeras Bajas;Puente de Vallecas
+2013;Anual;15211;134;13;Palomeras Sureste;Puente de Vallecas
+2014;Anual;13364;134;13;Palomeras Sureste;Puente de Vallecas
+2015;Anual;13613;134;13;Palomeras Sureste;Puente de Vallecas
+2016;Anual;15551;134;13;Palomeras Sureste;Puente de Vallecas
+2017;Anual;16574;134;13;Palomeras Sureste;Puente de Vallecas
+2018;Anual;17015;134;13;Palomeras Sureste;Puente de Vallecas
+2019;Anual;17350;134;13;Palomeras Sureste;Puente de Vallecas
+2020;Anual;17759;134;13;Palomeras Sureste;Puente de Vallecas
+2021;Anual;17330;134;13;Palomeras Sureste;Puente de Vallecas
+2022;Anual;18117;134;13;Palomeras Sureste;Puente de Vallecas
+2013;Anual;17879;107;10;Águilas;Latina
+2014;Anual;15619;107;10;Águilas;Latina
+2015;Anual;15781;107;10;Águilas;Latina
+2016;Anual;17787;107;10;Águilas;Latina
+2017;Anual;18249;107;10;Águilas;Latina
+2018;Anual;18553;107;10;Águilas;Latina
+2019;Anual;19138;107;10;Águilas;Latina
+2020;Anual;19404;107;10;Águilas;Latina
+2021;Anual;19119;107;10;Águilas;Latina
+2022;Anual;19800;107;10;Águilas;Latina
+2013;Anual;10348;131;13;Entrevías;Puente de Vallecas
+2014;Anual;9128;131;13;Entrevías;Puente de Vallecas
+2015;Anual;9261;131;13;Entrevías;Puente de Vallecas
+2016;Anual;10760;131;13;Entrevías;Puente de Vallecas
+2017;Anual;11418;131;13;Entrevías;Puente de Vallecas
+2018;Anual;11800;131;13;Entrevías;Puente de Vallecas
+2019;Anual;12398;131;13;Entrevías;Puente de Vallecas
+2020;Anual;12724;131;13;Entrevías;Puente de Vallecas
+2021;Anual;12486;131;13;Entrevías;Puente de Vallecas
+2022;Anual;13226;131;13;Entrevías;Puente de Vallecas
+2013;Anual;15272;114;11;Vista Alegre;Carabanchel
+2014;Anual;13178;114;11;Vista Alegre;Carabanchel
+2015;Anual;13120;114;11;Vista Alegre;Carabanchel
+2016;Anual;15282;114;11;Vista Alegre;Carabanchel
+2017;Anual;16132;114;11;Vista Alegre;Carabanchel
+2018;Anual;16360;114;11;Vista Alegre;Carabanchel
+2019;Anual;17150;114;11;Vista Alegre;Carabanchel
+2020;Anual;17438;114;11;Vista Alegre;Carabanchel
+2021;Anual;17370;114;11;Vista Alegre;Carabanchel
+2022;Anual;18108;114;11;Vista Alegre;Carabanchel
+2013;Anual;9435;182;18;Santa Eugenia;Villa de Vallecas
+2014;Anual;8313;182;18;Santa Eugenia;Villa de Vallecas
+2015;Anual;8414;182;18;Santa Eugenia;Villa de Vallecas
+2016;Anual;9530;182;18;Santa Eugenia;Villa de Vallecas
+2017;Anual;9666;182;18;Santa Eugenia;Villa de Vallecas
+2018;Anual;9828;182;18;Santa Eugenia;Villa de Vallecas
+2019;Anual;10042;182;18;Santa Eugenia;Villa de Vallecas
+2020;Anual;10074;182;18;Santa Eugenia;Villa de Vallecas
+2021;Anual;9936;182;18;Santa Eugenia;Villa de Vallecas
+2022;Anual;10103;182;18;Santa Eugenia;Villa de Vallecas
+2013;Anual;7151;124;12;Almendrales;Usera
+2014;Anual;6029;124;12;Almendrales;Usera
+2015;Anual;6072;124;12;Almendrales;Usera
+2016;Anual;7043;124;12;Almendrales;Usera
+2017;Anual;7716;124;12;Almendrales;Usera
+2018;Anual;7729;124;12;Almendrales;Usera
+2019;Anual;8088;124;12;Almendrales;Usera
+2020;Anual;8319;124;12;Almendrales;Usera
+2021;Anual;8344;124;12;Almendrales;Usera
+2022;Anual;9023;124;12;Almendrales;Usera
+2013;Anual;11000;115;11;Puerta Bonita;Carabanchel
+2014;Anual;9604;115;11;Puerta Bonita;Carabanchel
+2015;Anual;9680;115;11;Puerta Bonita;Carabanchel
+2016;Anual;11092;115;11;Puerta Bonita;Carabanchel
+2017;Anual;11863;115;11;Puerta Bonita;Carabanchel
+2018;Anual;12176;115;11;Puerta Bonita;Carabanchel
+2019;Anual;12917;115;11;Puerta Bonita;Carabanchel
+2020;Anual;13257;115;11;Puerta Bonita;Carabanchel
+2021;Anual;13191;115;11;Puerta Bonita;Carabanchel
+2022;Anual;13933;115;11;Puerta Bonita;Carabanchel
+2013;Anual;10098;117;11;Abrantes;Carabanchel
+2014;Anual;8792;117;11;Abrantes;Carabanchel
+2015;Anual;8879;117;11;Abrantes;Carabanchel
+2016;Anual;10317;117;11;Abrantes;Carabanchel
+2017;Anual;10778;117;11;Abrantes;Carabanchel
+2018;Anual;11087;117;11;Abrantes;Carabanchel
+2019;Anual;11570;117;11;Abrantes;Carabanchel
+2020;Anual;11971;117;11;Abrantes;Carabanchel
+2021;Anual;11901;117;11;Abrantes;Carabanchel
+2022;Anual;12327;117;11;Abrantes;Carabanchel
+2013;Anual;5577;127;12;Pradolongo;Usera
+2014;Anual;4706;127;12;Pradolongo;Usera
+2015;Anual;4730;127;12;Pradolongo;Usera
+2016;Anual;5610;127;12;Pradolongo;Usera
+2017;Anual;6101;127;12;Pradolongo;Usera
+2018;Anual;6017;127;12;Pradolongo;Usera
+2019;Anual;6389;127;12;Pradolongo;Usera
+2020;Anual;6391;127;12;Pradolongo;Usera
+2021;Anual;6138;127;12;Pradolongo;Usera
+2022;Anual;6576;127;12;Pradolongo;Usera
+2013;Anual;4519;126;12;Zofío;Usera
+2014;Anual;3871;126;12;Zofío;Usera
+2015;Anual;3895;126;12;Zofío;Usera
+2016;Anual;4519;126;12;Zofío;Usera
+2017;Anual;4903;126;12;Zofío;Usera
+2018;Anual;5002;126;12;Zofío;Usera
+2019;Anual;5335;126;12;Zofío;Usera
+2020;Anual;5447;126;12;Zofío;Usera
+2021;Anual;5359;126;12;Zofío;Usera
+2022;Anual;5631;126;12;Zofío;Usera
+2013;Anual;4192;122;12;Orcasur;Usera
+2014;Anual;3693;122;12;Orcasur;Usera
+2015;Anual;3778;122;12;Orcasur;Usera
+2016;Anual;4402;122;12;Orcasur;Usera
+2017;Anual;4739;122;12;Orcasur;Usera
+2018;Anual;4843;122;12;Orcasur;Usera
+2019;Anual;5019;122;12;Orcasur;Usera
+2020;Anual;5104;122;12;Orcasur;Usera
+2021;Anual;5079;122;12;Orcasur;Usera
+2022;Anual;5394;122;12;Orcasur;Usera
+2013;Anual;23850;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2014;Anual;26684;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2015;Anual;26865;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2016;Anual;31939;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2017;Anual;35000;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2018;Anual;14634;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2019;Anual;15175;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2020;Anual;15537;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2021;Anual;15383;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2022;Anual;15940;181;18;Casco Histórico de Vallecas;Villa de Vallecas
+2013;Anual;6897;123;12;San Fermín;Usera
+2014;Anual;6790;123;12;San Fermín;Usera
+2015;Anual;6894;123;12;San Fermín;Usera
+2016;Anual;7963;123;12;San Fermín;Usera
+2017;Anual;8378;123;12;San Fermín;Usera
+2018;Anual;8611;123;12;San Fermín;Usera
+2019;Anual;8998;123;12;San Fermín;Usera
+2020;Anual;9212;123;12;San Fermín;Usera
+2021;Anual;9043;123;12;San Fermín;Usera
+2022;Anual;9334;123;12;San Fermín;Usera
+2013;Anual;1921;106;10;Cuatro Vientos;Latina
+2014;Anual;1854;106;10;Cuatro Vientos;Latina
+2015;Anual;1861;106;10;Cuatro Vientos;Latina
+2016;Anual;2200;106;10;Cuatro Vientos;Latina
+2017;Anual;2471;106;10;Cuatro Vientos;Latina
+2018;Anual;2491;106;10;Cuatro Vientos;Latina
+2019;Anual;2670;106;10;Cuatro Vientos;Latina
+2020;Anual;2737;106;10;Cuatro Vientos;Latina
+2021;Anual;2722;106;10;Cuatro Vientos;Latina
+2022;Anual;2755;106;10;Cuatro Vientos;Latina
+2013;Anual;16956;116;11;Buenavista;Carabanchel
+2014;Anual;15336;116;11;Buenavista;Carabanchel
+2015;Anual;15479;116;11;Buenavista;Carabanchel
+2016;Anual;17584;116;11;Buenavista;Carabanchel
+2017;Anual;18739;116;11;Buenavista;Carabanchel
+2018;Anual;19185;116;11;Buenavista;Carabanchel
+2019;Anual;19987;116;11;Buenavista;Carabanchel
+2020;Anual;20547;116;11;Buenavista;Carabanchel
+2021;Anual;20462;116;11;Buenavista;Carabanchel
+2022;Anual;21170;116;11;Buenavista;Carabanchel
+2017;Anual;0;183;18;Ensanche de Vallecas;Villa de Vallecas
+2018;Anual;20902;183;18;Ensanche de Vallecas;Villa de Vallecas
+2019;Anual;22472;183;18;Ensanche de Vallecas;Villa de Vallecas
+2020;Anual;23643;183;18;Ensanche de Vallecas;Villa de Vallecas
+2021;Anual;24611;183;18;Ensanche de Vallecas;Villa de Vallecas
+2022;Anual;25648;183;18;Ensanche de Vallecas;Villa de Vallecas
+2013;Anual;7516;121;12;Orcasitas;Usera
+2014;Anual;6738;121;12;Orcasitas;Usera
+2015;Anual;6853;121;12;Orcasitas;Usera
+2016;Anual;7792;121;12;Orcasitas;Usera
+2017;Anual;8158;121;12;Orcasitas;Usera
+2018;Anual;8315;121;12;Orcasitas;Usera
+2019;Anual;8587;121;12;Orcasitas;Usera
+2020;Anual;8926;121;12;Orcasitas;Usera
+2021;Anual;8805;121;12;Orcasitas;Usera
+2022;Anual;9157;121;12;Orcasitas;Usera
+2018;Anual;16094;171;17;Villaverde Alto - Casco Histórico de Villaverde;Villaverde
+2019;Anual;16873;171;17;Villaverde Alto - Casco Histórico de Villaverde;Villaverde
+2020;Anual;17503;171;17;Villaverde Alto - Casco Histórico de Villaverde;Villaverde
+2021;Anual;17318;171;17;Villaverde Alto - Casco Histórico de Villaverde;Villaverde
+2022;Anual;18121;171;17;Villaverde Alto - Casco Histórico de Villaverde;Villaverde
+2013;Anual;13248;174;17;Los Rosales;Villaverde
+2014;Anual;11638;174;17;Los Rosales;Villaverde
+2015;Anual;11759;174;17;Los Rosales;Villaverde
+2016;Anual;13372;174;17;Los Rosales;Villaverde
+2017;Anual;14016;174;17;Los Rosales;Villaverde
+2018;Anual;14424;174;17;Los Rosales;Villaverde
+2019;Anual;15202;174;17;Los Rosales;Villaverde
+2020;Anual;15355;174;17;Los Rosales;Villaverde
+2021;Anual;15147;174;17;Los Rosales;Villaverde
+2022;Anual;15603;174;17;Los Rosales;Villaverde
+2013;Anual;9964;175;17;Ángeles;Villaverde
+2014;Anual;8634;175;17;Ángeles;Villaverde
+2015;Anual;8699;175;17;Ángeles;Villaverde
+2016;Anual;9903;175;17;Ángeles;Villaverde
+2017;Anual;10422;175;17;Ángeles;Villaverde
+2018;Anual;10673;175;17;Ángeles;Villaverde
+2019;Anual;10946;175;17;Ángeles;Villaverde
+2020;Anual;11379;175;17;Ángeles;Villaverde
+2021;Anual;11522;175;17;Ángeles;Villaverde
+2022;Anual;12427;175;17;Ángeles;Villaverde
+2013;Anual;6455;173;17;Butarque;Villaverde
+2014;Anual;5204;173;17;Butarque;Villaverde
+2015;Anual;5261;173;17;Butarque;Villaverde
+2016;Anual;6970;173;17;Butarque;Villaverde
+2017;Anual;7611;173;17;Butarque;Villaverde
+2018;Anual;7757;173;17;Butarque;Villaverde
+2019;Anual;8260;173;17;Butarque;Villaverde
+2020;Anual;8525;173;17;Butarque;Villaverde
+2021;Anual;8812;173;17;Butarque;Villaverde
+2022;Anual;9573;173;17;Butarque;Villaverde
+2013;Anual;4151;172;17;San Cristóbal;Villaverde
+2014;Anual;3562;172;17;San Cristóbal;Villaverde
+2015;Anual;3540;172;17;San Cristóbal;Villaverde
+2016;Anual;4286;172;17;San Cristóbal;Villaverde
+2017;Anual;4652;172;17;San Cristóbal;Villaverde
+2018;Anual;4833;172;17;San Cristóbal;Villaverde
+2019;Anual;5145;172;17;San Cristóbal;Villaverde
+2020;Anual;5340;172;17;San Cristóbal;Villaverde
+2021;Anual;5333;172;17;San Cristóbal;Villaverde
+2022;Anual;5841;172;17;San Cristóbal;Villaverde

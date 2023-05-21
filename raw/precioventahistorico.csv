@@ -1,0 +1,327 @@
+ANIO;CODDIS;NOMDIS;PrecioVentaEurosM2
+2022;2;Arganzuela;4.331
+2021;2;Arganzuela;4.060
+2020;2;Arganzuela;3.888
+2019;2;Arganzuela;4.019
+2018;2;Arganzuela;4.027
+2017;2;Arganzuela;3.445
+2016;2;Arganzuela;2.925
+2015;2;Arganzuela;2.755
+2014;2;Arganzuela;2.644
+2013;2;Arganzuela;2.682
+2012;2;Arganzuela;2.906
+2011;2;Arganzuela;3.309
+2010;2;Arganzuela;3.560
+2009;2;Arganzuela;3.494
+2008;2;Arganzuela;3.667
+2007;2;Arganzuela;4.000
+2022;21;Barajas;3.414
+2021;21;Barajas;3.359
+2020;21;Barajas;3.147
+2019;21;Barajas;3.264
+2018;21;Barajas;3.088
+2017;21;Barajas;2.779
+2016;21;Barajas;2.625
+2015;21;Barajas;2.582
+2014;21;Barajas;2.532
+2013;21;Barajas;2.594
+2012;21;Barajas;2.813
+2011;21;Barajas;3.029
+2010;21;Barajas;3.221
+2009;21;Barajas;3.291
+2008;21;Barajas;3.528
+2022;11;Carabanchel;2.333
+2021;11;Carabanchel;2.148
+2020;11;Carabanchel;2.165
+2019;11;Carabanchel;2.192
+2018;11;Carabanchel;2.105
+2017;11;Carabanchel;1.821
+2016;11;Carabanchel;1.666
+2015;11;Carabanchel;1.635
+2014;11;Carabanchel;1.618
+2013;11;Carabanchel;1.724
+2012;11;Carabanchel;1.859
+2011;11;Carabanchel;2.233
+2010;11;Carabanchel;2.532
+2009;11;Carabanchel;2.693
+2008;11;Carabanchel;2.824
+2007;11;Carabanchel;2.992
+2022;1;Centro;5.205
+2021;1;Centro;4.844
+2020;1;Centro;4.865
+2019;1;Centro;5.059
+2018;1;Centro;4.973
+2017;1;Centro;4.582
+2016;1;Centro;3.782
+2015;1;Centro;3.569
+2014;1;Centro;3.324
+2013;1;Centro;3.240
+2012;1;Centro;3.407
+2011;1;Centro;3.772
+2010;1;Centro;3.987
+2009;1;Centro;4.063
+2008;1;Centro;4.099
+2007;1;Centro;4.394
+2022;5;Chamartín;5.590
+2021;5;Chamartín;5.111
+2020;5;Chamartín;4.999
+2019;5;Chamartín;5.056
+2018;5;Chamartín;5.198
+2017;5;Chamartín;4.635
+2016;5;Chamartín;4.245
+2015;5;Chamartín;4.023
+2014;5;Chamartín;3.903
+2013;5;Chamartín;3.873
+2012;5;Chamartín;4.051
+2011;5;Chamartín;4.368
+2010;5;Chamartín;4.699
+2009;5;Chamartín;4.588
+2008;5;Chamartín;4.522
+2007;5;Chamartín;4.549
+2022;7;Chamberí;5.870
+2021;7;Chamberí;5.427
+2020;7;Chamberí;5.283
+2019;7;Chamberí;5.301
+2018;7;Chamberí;5.311
+2017;7;Chamberí;4.771
+2016;7;Chamberí;4.015
+2015;7;Chamberí;3.801
+2014;7;Chamberí;3.572
+2013;7;Chamberí;3.616
+2012;7;Chamberí;3.860
+2011;7;Chamberí;4.169
+2010;7;Chamberí;4.506
+2009;7;Chamberí;4.587
+2008;7;Chamberí;4.684
+2022;15;Ciudad Lineal;3.255
+2021;15;Ciudad Lineal;2.969
+2020;15;Ciudad Lineal;2.912
+2019;15;Ciudad Lineal;3.035
+2018;15;Ciudad Lineal;2.990
+2017;15;Ciudad Lineal;2.564
+2016;15;Ciudad Lineal;2.438
+2015;15;Ciudad Lineal;2.403
+2014;15;Ciudad Lineal;2.386
+2013;15;Ciudad Lineal;2.484
+2012;15;Ciudad Lineal;2.623
+2011;15;Ciudad Lineal;3.053
+2010;15;Ciudad Lineal;3.213
+2009;15;Ciudad Lineal;3.187
+2008;15;Ciudad Lineal;3.306
+2007;15;Ciudad Lineal;3.422
+2022;8;Fuencarral - El Pardo;3.807
+2021;8;Fuencarral - El Pardo;3.617
+2020;8;Fuencarral - El Pardo;3.491
+2019;8;Fuencarral - El Pardo;3.554
+2018;8;Fuencarral - El Pardo;3.360
+2017;8;Fuencarral - El Pardo;3.142
+2016;8;Fuencarral - El Pardo;2.884
+2015;8;Fuencarral - El Pardo;2.768
+2014;8;Fuencarral - El Pardo;2.757
+2013;8;Fuencarral - El Pardo;2.809
+2012;8;Fuencarral - El Pardo;2.950
+2011;8;Fuencarral - El Pardo;3.281
+2010;8;Fuencarral - El Pardo;3.425
+2009;8;Fuencarral - El Pardo;3.311
+2008;8;Fuencarral - El Pardo;3.436
+2007;8;Fuencarral - El Pardo;3.510
+2022;16;Hortaleza;3.824
+2021;16;Hortaleza;3.799
+2020;16;Hortaleza;3.668
+2019;16;Hortaleza;3.615
+2018;16;Hortaleza;3.687
+2017;16;Hortaleza;3.182
+2016;16;Hortaleza;2.898
+2015;16;Hortaleza;2.785
+2014;16;Hortaleza;2.803
+2013;16;Hortaleza;2.811
+2012;16;Hortaleza;2.977
+2011;16;Hortaleza;3.423
+2010;16;Hortaleza;3.449
+2009;16;Hortaleza;3.569
+2008;16;Hortaleza;3.495
+2007;16;Hortaleza;3.806
+2022;10;Latina;2.476
+2021;10;Latina;2.271
+2020;10;Latina;2.246
+2019;10;Latina;2.306
+2018;10;Latina;2.274
+2017;10;Latina;1.997
+2016;10;Latina;1.776
+2015;10;Latina;1.666
+2014;10;Latina;1.599
+2013;10;Latina;1.675
+2012;10;Latina;1.877
+2011;10;Latina;2.178
+2010;10;Latina;2.513
+2009;10;Latina;2.690
+2008;10;Latina;2.727
+2007;10;Latina;2.928
+2022;9;Moncloa - Aravaca;4.291
+2021;9;Moncloa - Aravaca;4.073
+2020;9;Moncloa - Aravaca;3.912
+2019;9;Moncloa - Aravaca;3.963
+2018;9;Moncloa - Aravaca;3.803
+2017;9;Moncloa - Aravaca;3.590
+2016;9;Moncloa - Aravaca;3.178
+2015;9;Moncloa - Aravaca;3.071
+2014;9;Moncloa - Aravaca;3.017
+2013;9;Moncloa - Aravaca;3.049
+2012;9;Moncloa - Aravaca;3.184
+2011;9;Moncloa - Aravaca;3.485
+2010;9;Moncloa - Aravaca;3.686
+2009;9;Moncloa - Aravaca;3.813
+2008;9;Moncloa - Aravaca;4.012
+2007;9;Moncloa - Aravaca;3.880
+2022;14;Moratalaz;2.614
+2021;14;Moratalaz;2.532
+2020;14;Moratalaz;2.569
+2019;14;Moratalaz;2.515
+2018;14;Moratalaz;2.499
+2017;14;Moratalaz;2.260
+2016;14;Moratalaz;2.076
+2015;14;Moratalaz;1.904
+2014;14;Moratalaz;1.904
+2013;14;Moratalaz;1.898
+2012;14;Moratalaz;2.047
+2011;14;Moratalaz;2.293
+2010;14;Moratalaz;2.600
+2009;14;Moratalaz;2.600
+2022;13;Puente de Vallecas;2.112
+2021;13;Puente de Vallecas;1.921
+2020;13;Puente de Vallecas;1.887
+2019;13;Puente de Vallecas;1.954
+2018;13;Puente de Vallecas;1.862
+2017;13;Puente de Vallecas;1.513
+2016;13;Puente de Vallecas;1.290
+2015;13;Puente de Vallecas;1.328
+2014;13;Puente de Vallecas;1.281
+2013;13;Puente de Vallecas;1.408
+2012;13;Puente de Vallecas;1.545
+2011;13;Puente de Vallecas;1.910
+2010;13;Puente de Vallecas;2.374
+2009;13;Puente de Vallecas;2.507
+2008;13;Puente de Vallecas;2.657
+2007;13;Puente de Vallecas;2.786
+2022;3;Retiro;5.017
+2021;3;Retiro;4.733
+2020;3;Retiro;4.502
+2019;3;Retiro;4.539
+2018;3;Retiro;4.478
+2017;3;Retiro;4.011
+2016;3;Retiro;3.459
+2015;3;Retiro;3.368
+2014;3;Retiro;3.069
+2013;3;Retiro;3.186
+2012;3;Retiro;3.370
+2011;3;Retiro;3.618
+2010;3;Retiro;3.868
+2009;3;Retiro;3.938
+2008;3;Retiro;4.151
+2022;4;Salamanca;6.633
+2021;4;Salamanca;6.088
+2020;4;Salamanca;5.740
+2019;4;Salamanca;5.873
+2018;4;Salamanca;5.710
+2017;4;Salamanca;5.158
+2016;4;Salamanca;4.495
+2015;4;Salamanca;4.375
+2014;4;Salamanca;4.145
+2013;4;Salamanca;4.013
+2012;4;Salamanca;4.187
+2011;4;Salamanca;4.454
+2010;4;Salamanca;4.654
+2009;4;Salamanca;4.718
+2008;4;Salamanca;4.776
+2007;4;Salamanca;4.636
+2022;20;San Blas - Canillejas;2.776
+2021;20;San Blas - Canillejas;2.596
+2020;20;San Blas - Canillejas;2.558
+2019;20;San Blas - Canillejas;2.468
+2018;20;San Blas - Canillejas;2.485
+2017;20;San Blas - Canillejas;2.425
+2016;20;San Blas - Canillejas;2.098
+2015;20;San Blas - Canillejas;2.043
+2014;20;San Blas - Canillejas;2.104
+2013;20;San Blas - Canillejas;2.150
+2012;20;San Blas - Canillejas;2.196
+2011;20;San Blas - Canillejas;2.598
+2010;20;San Blas - Canillejas;2.887
+2009;20;San Blas - Canillejas;2.915
+2008;20;San Blas - Canillejas;3.086
+2007;20;San Blas - Canillejas;3.470
+2022;6;Tetuán;4.051
+2021;6;Tetuán;3.677
+2020;6;Tetuán;3.649
+2019;6;Tetuán;3.656
+2018;6;Tetuán;3.629
+2017;6;Tetuán;3.086
+2016;6;Tetuán;2.769
+2015;6;Tetuán;2.605
+2014;6;Tetuán;2.575
+2013;6;Tetuán;2.634
+2012;6;Tetuán;2.812
+2011;6;Tetuán;3.157
+2010;6;Tetuán;3.399
+2009;6;Tetuán;3.476
+2008;6;Tetuán;3.539
+2007;6;Tetuán;3.857
+2022;12;Usera;2.182
+2021;12;Usera;2.014
+2020;12;Usera;1.942
+2019;12;Usera;2.031
+2018;12;Usera;1.971
+2017;12;Usera;1.695
+2016;12;Usera;1.517
+2015;12;Usera;1.499
+2014;12;Usera;1.441
+2013;12;Usera;1.587
+2012;12;Usera;1.803
+2011;12;Usera;2.106
+2010;12;Usera;2.403
+2009;12;Usera;2.511
+2008;12;Usera;2.718
+2007;12;Usera;2.851
+2022;19;Vicálvaro;2.708
+2021;19;Vicálvaro;2.413
+2020;19;Vicálvaro;2.318
+2019;19;Vicálvaro;2.318
+2018;19;Vicálvaro;2.132
+2017;19;Vicálvaro;1.809
+2016;19;Vicálvaro;1.674
+2015;19;Vicálvaro;1.641
+2014;19;Vicálvaro;1.624
+2013;19;Vicálvaro;1.813
+2012;19;Vicálvaro;1.898
+2011;19;Vicálvaro;2.343
+2010;19;Vicálvaro;2.583
+2022;18;Villa de Vallecas;2.529
+2021;18;Villa de Vallecas;2.372
+2020;18;Villa de Vallecas;2.384
+2019;18;Villa de Vallecas;2.419
+2018;18;Villa de Vallecas;2.273
+2017;18;Villa de Vallecas;2.048
+2016;18;Villa de Vallecas;1.941
+2015;18;Villa de Vallecas;1.838
+2014;18;Villa de Vallecas;1.950
+2013;18;Villa de Vallecas;1.965
+2012;18;Villa de Vallecas;2.132
+2011;18;Villa de Vallecas;2.497
+2010;18;Villa de Vallecas;2.691
+2009;18;Villa de Vallecas;2.651
+2008;18;Villa de Vallecas;2.714
+2022;17;Villaverde;1.834
+2021;17;Villaverde;1.689
+2020;17;Villaverde;1.706
+2019;17;Villaverde;1.719
+2018;17;Villaverde;1.650
+2017;17;Villaverde;1.401
+2016;17;Villaverde;1.496
+2015;17;Villaverde;1.345
+2014;17;Villaverde;1.349
+2013;17;Villaverde;1.339
+2012;17;Villaverde;1.511
+2011;17;Villaverde;1.897
+2010;17;Villaverde;2.198
+2009;17;Villaverde;2.230
+2008;17;Villaverde;2.452
